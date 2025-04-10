@@ -62,6 +62,7 @@ Leetcode練習以及Grind 75的題目
 | [0015-3sum](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0283-move-zeroes) |
 | [1019-squares-of-a-sorted-array](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1019-squares-of-a-sorted-array) |
 ## Sliding Window
@@ -115,5 +116,6 @@ Leetcode練習以及Grind 75的題目
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
