@@ -2,22 +2,22 @@ class Solution {
 public:
     vector<vector<int>> merge(vector<vector<int>>& intervals) {
         vector<vector<int>> merged;
-        int n=intervals.size();
-        if(n==0) return merged;
+        if(intervals.size()==0) return merged;
         sort(intervals.begin(), intervals.end());
-        merged.push_back(intervals[0]);
-        for(int i=1;i<n;i++){
-            if(intervals[i][0]<=merged.back()[1]){
-                merged.back()[1] = max(merged.back()[1], intervals[i][1]);
+        vector<int> temps=intervals[0];
+        for(const auto& it:intervals){
+            if(it[0]<=temps[1]){
+                temps[1]=max(it[1], temps[1]);
             }
             else{
-                merged.push_back(intervals[i]);
+                merged.push_back(temps);
+                temps=it;
             }
         }
+        merged.push_back(temps);
         return merged;
     }
 };
-
 /*
 要對區間先進行排序
 用temp來存一開始的區間起始值
