@@ -30,6 +30,7 @@ Leetcode練習以及Grind 75的題目
 | [0001-two-sum](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -42,6 +43,7 @@ Leetcode練習以及Grind 75的題目
 | [0075-sort-colors](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0242-valid-anagram) |
 | [1019-squares-of-a-sorted-array](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1019-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -110,4 +112,8 @@ Leetcode練習以及Grind 75的題目
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0011-container-with-most-water) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
