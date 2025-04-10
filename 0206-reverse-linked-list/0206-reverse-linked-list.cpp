@@ -8,6 +8,8 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
+
+//遞迴
 class Solution {
 public:
     ListNode* reverseList(ListNode* head) {
@@ -20,6 +22,23 @@ public:
         return reverse(temp, curr);
     }
 };
+//雙指針
+class Solution {
+public:
+    ListNode* reverseList(ListNode* head) {
+        ListNode* curr=head;
+        ListNode* pre=nullptr;
+        ListNode* temp=nullptr;
+        while(curr!=NULL){
+            temp=curr->next;
+            curr->next=pre;
+            pre=curr;
+            curr=temp;
+        }
+        return pre;
+    }
+};
+
 /*
 用雙指針跟遞迴的方式寫
 
