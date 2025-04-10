@@ -8,6 +8,7 @@ Leetcode練習以及Grind 75的題目
 | ------- |
 | [0001-two-sum](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0027-remove-element) |
+| [0059-spiral-matrix-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0059-spiral-matrix-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0209-minimum-size-subarray-sum](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0217-contains-duplicate) |
@@ -49,4 +50,12 @@ Leetcode練習以及Grind 75的題目
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0209-minimum-size-subarray-sum) |
+## Matrix
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0059-spiral-matrix-ii) |
+## Simulation
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
