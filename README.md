@@ -7,6 +7,7 @@ Leetcode練習以及Grind 75的題目
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0027-remove-element) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0217-contains-duplicate) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -31,4 +32,8 @@ Leetcode練習以及Grind 75的題目
 |  |
 | ------- |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
