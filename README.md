@@ -29,6 +29,7 @@ Leetcode練習以及Grind 75的題目
 | ------- |
 | [0001-two-sum](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0242-valid-anagram) |
@@ -66,6 +67,7 @@ Leetcode練習以及Grind 75的題目
 | [0075-sort-colors](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0142-linked-list-cycle-ii) |
 | [0283-move-zeroes](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0283-move-zeroes) |
 | [1019-squares-of-a-sorted-array](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1019-squares-of-a-sorted-array) |
 ## Sliding Window
@@ -100,6 +102,7 @@ Leetcode練習以及Grind 75的題目
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0024-swap-nodes-in-pairs) |
 | [0141-linked-list-cycle](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0237-delete-node-in-a-linked-list) |
