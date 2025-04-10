@@ -86,4 +86,8 @@ Leetcode練習以及Grind 75的題目
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0039-combination-sum) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
