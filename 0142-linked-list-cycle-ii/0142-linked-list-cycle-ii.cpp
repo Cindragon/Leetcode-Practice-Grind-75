@@ -27,3 +27,10 @@ public:
     return nullptr;
     }
 };
+
+/*
+先用快慢指針（Floyd’s Cycle Detection Algorithm ）判斷是否有環，沒環的話回傳NULL
+有環相遇之後，用一個節點curr指向head
+然後在 curr!=slow 的時候，curr跟slow都一步步往下走
+最後相遇的時候會就會是入口！
+*/
