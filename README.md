@@ -92,12 +92,14 @@ Leetcode練習以及Grind 75的題目
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0237-delete-node-in-a-linked-list) |
 | [0838-design-linked-list](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0838-design-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0206-reverse-linked-list) |
 ## Design
 |  |
 | ------- |
