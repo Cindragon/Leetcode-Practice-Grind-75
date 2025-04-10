@@ -60,6 +60,7 @@ Leetcode練習以及Grind 75的題目
 | ------- |
 | [0011-container-with-most-water](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0125-valid-palindrome) |
@@ -94,6 +95,7 @@ Leetcode練習以及Grind 75的題目
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0206-reverse-linked-list) |
