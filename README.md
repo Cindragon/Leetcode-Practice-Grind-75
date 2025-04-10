@@ -15,6 +15,7 @@ Leetcode練習以及Grind 75的題目
 | [0169-majority-element](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0283-move-zeroes) |
 | [1019-squares-of-a-sorted-array](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1019-squares-of-a-sorted-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -62,6 +63,7 @@ Leetcode練習以及Grind 75的題目
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0238-product-of-array-except-self) |
 ## Matrix
 |  |
 | ------- |
