@@ -31,3 +31,11 @@ public:
         return dummyHead->next;
     }
 };
+
+/*
+dummy head 是「固定的起點」，而 curr 是「動態的建構者」
+每次加上一個節點，會是從curr去接下一個節點
+若最後接完要檢查list1 & list2 是否到終點
+若不是要再接上其中一條
+最後要回傳的是dummyHead->next
+*/
