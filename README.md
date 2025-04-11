@@ -131,4 +131,12 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0242-valid-anagram) |
+## Math
+|  |
+| ------- |
+| [2998-count-symmetric-integers](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2998-count-symmetric-integers) |
+## Enumeration
+|  |
+| ------- |
+| [2998-count-symmetric-integers](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
