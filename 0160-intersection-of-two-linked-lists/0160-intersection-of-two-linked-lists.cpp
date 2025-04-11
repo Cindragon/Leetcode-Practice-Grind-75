@@ -38,3 +38,10 @@ public:
         return nullptr;
     }
 };
+
+/*
+先查看兩個鍊結的長度(m&n)，看誰比較長
+比較長的那條先多走abs(m-n)步(終點對齊)，接下來兩條一起走
+不是 val 相等，而是地址相等(headA==headB)才回傳
+都沒相交就回傳nullptr
+*/
