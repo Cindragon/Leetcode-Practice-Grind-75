@@ -1,5 +1,5 @@
 # Leetcode-Practice-Grind-75
-Leetcode練習以及Grind 75的題目
+以下為我在Leetcode上練習的題目，其中包含了 Grind 75 列表中的題目，以 C++ 作為主要的程式語言，會盡量在每份程式碼上寫上自己的註解，若有不清楚或是錯誤的地方再請各位不吝指教了，謝謝！
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
