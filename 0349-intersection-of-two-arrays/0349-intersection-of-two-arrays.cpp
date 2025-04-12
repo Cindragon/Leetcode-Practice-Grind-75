@@ -12,7 +12,7 @@ public:
 };
 
 /*
-選對結構很重要，使用unordered_set來對nums1進行hashtable的排列
-接著遍歷nums2，如果nums2的元素在裡面就加到ans中
-最後回傳vector形式的ans
+使用 unordered_set 將 nums1 存入哈希表中，方便快速查找元素（O(1) 時間複雜度）
+接著遍歷 nums2，如果某個元素也存在於 nums1_set 中，就將其加入結果集合 ans（自動去重）
+最後將結果集合轉換成 vector 並回傳
 */
