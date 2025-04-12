@@ -1,16 +1,21 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-        vector<int> ans;
+        unordered_map<int,int> nums_map;
         for(int i=0;i<nums.size();i++){
-            for(int j=i+1;j<nums.size();j++){
-                if(nums[i]+nums[j]==target){
-                    ans.push_back(i);
-                    ans.push_back(j);
-                    break;
-                }
+            if(nums_map.find(target-nums[i])!=nums_map.end()){
+                return{nums_map[target-nums[i]], i};
             }
+            nums_map[nums[i]] = i;
         }
-        return ans;
+        return {};
     }
 };
+
+/*
+使用 unordered_map 來儲存 nums[i] 對應的索引值（數值 ➜ 索引）
+每次走訪 nums[i] 時，先計算 target - nums[i]
+查看這個差值是否已經存在於 map 裡。
+如果有找到就回傳兩者的索引值
+若是沒有就加入到map中
+*/
