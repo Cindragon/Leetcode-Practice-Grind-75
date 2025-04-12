@@ -21,6 +21,7 @@
 | [0217-contains-duplicate](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0349-intersection-of-two-arrays) |
 | [0495-teemo-attacking](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0495-teemo-attacking) |
 | [1019-squares-of-a-sorted-array](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1019-squares-of-a-sorted-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -34,6 +35,7 @@
 | [0169-majority-element](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0349-intersection-of-two-arrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -47,11 +49,13 @@
 | [0169-majority-element](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0349-intersection-of-two-arrays) |
 | [1019-squares-of-a-sorted-array](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1019-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0209-minimum-size-subarray-sum) |
+| [0349-intersection-of-two-arrays](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0349-intersection-of-two-arrays) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Counting
 |  |
@@ -71,6 +75,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0349-intersection-of-two-arrays) |
 | [1019-squares-of-a-sorted-array](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1019-squares-of-a-sorted-array) |
 ## Sliding Window
 |  |
