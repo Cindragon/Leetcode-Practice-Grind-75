@@ -13,6 +13,7 @@ public:
         }
         else if(s[i]=='+') i++;
         while(i<n && s[i]-'0'>=0 && s[i]-'0'<=9){
+            //while(i < n && isdigit(s[i]))
             ans=ans*10+(s[i]-'0');
             if(sign*ans>INT_MAX) return INT_MAX;
             if(sign*ans<INT_MIN) return INT_MIN;
