@@ -155,6 +155,7 @@
 | [0242-valid-anagram](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0409-longest-palindrome) |
+| [0459-repeated-substring-pattern](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0459-repeated-substring-pattern) |
 | [0541-reverse-string-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0541-reverse-string-ii) |
 ## Math
 |  |
@@ -165,4 +166,8 @@
 |  |
 | ------- |
 | [2998-count-symmetric-integers](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2998-count-symmetric-integers) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
