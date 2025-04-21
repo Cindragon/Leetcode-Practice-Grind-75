@@ -41,6 +41,7 @@
 | [0242-valid-anagram](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0349-intersection-of-two-arrays) |
 | [0409-longest-palindrome](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0409-longest-palindrome) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0454-4sum-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0454-4sum-ii) |
 ## Dynamic Programming
 |  |
@@ -96,6 +97,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0209-minimum-size-subarray-sum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -158,6 +160,7 @@
 | [0242-valid-anagram](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0409-longest-palindrome) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0459-repeated-substring-pattern) |
 | [0541-reverse-string-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0541-reverse-string-ii) |
 ## Math
