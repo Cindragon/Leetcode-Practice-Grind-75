@@ -157,6 +157,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0008-string-to-integer-atoi) |
+| [0020-valid-parentheses](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0242-valid-anagram) |
@@ -181,6 +182,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
