@@ -143,6 +143,7 @@
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0232-implement-queue-using-stacks) |
 | [0838-design-linked-list](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0838-design-linked-list) |
 ## Greedy
 |  |
@@ -176,4 +177,12 @@
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0459-repeated-substring-pattern) |
+## Stack
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
