@@ -3,6 +3,25 @@ public:
     bool isValid(string s) {
         stack<char> ans;
         if(s.size()%2!=0) return false;
+        for(const auto&c:s){
+            if(c=='(') ans.push(')');
+            else if(c=='[') ans.push(']');
+            else if(c=='{') ans.push('}');
+
+            else if(ans.empty()||ans.top()!=c) return false;
+            else
+                ans.pop();
+        }
+        return ans.empty();
+    }
+};
+
+/*(另一種寫法)
+class Solution {
+public:
+    bool isValid(string s) {
+        stack<char> ans;
+        if(s.size()%2!=0) return false;
         for(int i=0;i<s.size();i++){
             if(s[i]=='('||s[i]=='['||s[i]=='{'){
                 ans.push(s[i]);
@@ -20,3 +39,5 @@ public:
         return ans.empty(); //看是否為空(如果括號有多就不會是空)
     }
 };
+
+*/
