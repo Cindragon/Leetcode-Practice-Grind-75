@@ -12,7 +12,7 @@ public:
     
     int pop() {
         int result;
-        if(stackOut.empty()){
+        if(stackOut.empty()){ //檢查 stackOut 是否為空
             while(!stackIn.empty()){
                 stackOut.push(stackIn.top());
                 stackIn.pop();
@@ -25,7 +25,7 @@ public:
     
     int peek() {
         int result;
-        result=this->pop();
+        result=this->pop(); //調用本次的 pop 函數
         stackOut.push(result);
         return result;
     }
