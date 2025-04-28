@@ -12,8 +12,8 @@ public:
             mp[n]++;
         }
         priority_queue<pair<int, int>, vector<pair<int, int>>, mycomparison> pri_que;
-        for(unordered_map<int, int>::iterator it=mp.begin();it!=mp.end();it++){
-            pri_que.push(*it);
+        for(const auto&it:mp){
+            pri_que.push(it);
             if(pri_que.size()>k){
                 pri_que.pop();
             }
@@ -26,3 +26,10 @@ public:
     return ans;
     }
 };
+/*
+先用 map 來遍歷數組中的元素頻率
+接下來用最小堆(Min-Heap)來對各元素出現的頻率做統計 (priority_que)
+在迴圈中遍歷 map，將map的元素 push 進去pri_que中
+若是pri_que的大小>k，就將最頂端的元素(出現頻率最少的元素) pop 出去
+最後用 vector 儲存pri_que.top().first()，然後再pop()
+*/
