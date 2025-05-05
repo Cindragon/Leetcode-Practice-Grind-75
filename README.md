@@ -194,6 +194,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0020-valid-parentheses) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0144-binary-tree-preorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0232-implement-queue-using-stacks) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -224,4 +225,16 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0278-first-bad-version) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
