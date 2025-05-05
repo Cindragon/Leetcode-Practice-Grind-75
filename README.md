@@ -68,6 +68,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0209-minimum-size-subarray-sum) |
+| [0278-first-bad-version](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0349-intersection-of-two-arrays) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Counting
@@ -219,4 +220,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0347-top-k-frequent-elements) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
