@@ -1,0 +1,35 @@
+class Solution {
+public:
+    vector<int> inorderTraversal(TreeNode* root) {
+        vector<int> vec;
+        stack<TreeNode*> st;
+        TreeNode* curr=root;
+        while(curr!=NULL||!st.empty()){
+            if(curr!=NULL){
+                st.push(curr);
+                curr=curr->left;
+            }
+            else{
+                curr=st.top();
+                st.pop();
+                vec.push_back(curr->val);
+                curr=curr->right;
+            }
+        }
+        return vec;
+    }
+};
+/*
+使用迴圈加上 stack 的方式實作中序遍歷（Inorder Traversal: 左 → 中 → 右）
+
+主要邏輯：
+- 若 curr 不為 NULL，表示還能繼續往左子樹走，將當前節點壓入 stack 並移動到左節點。
+- 若 curr 為 NULL，代表已走到底，開始回溯：從 stack 中取出上一層節點，加入結果，並轉向右子樹。
+
+整體流程：
+1. 當 curr 不為 NULL 或 stack 不為空，就持續執行迴圈。
+2. 一路往左，把節點壓入 stack。
+3. 當左邊到底時，從 stack 中取出節點、加入結果，再處理右子樹。
+
+最終回傳結果 vec。
+*/
