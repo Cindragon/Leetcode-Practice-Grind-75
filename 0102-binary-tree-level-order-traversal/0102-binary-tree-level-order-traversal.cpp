@@ -31,3 +31,13 @@ public:
         return result;
     }
 };
+
+/*
+用佇列+迴圈的方式來進行層次遍歷
+先儲存root節點，然後用size記錄每次佇列的大小
+size--的同時，用node記錄que的最前端(也就是每一層第一個被加進去的節點)並彈出佇列
+然後用vector儲存node的val
+如果node的left跟right不為NULL，則加到佇列中，並且先把每次儲存的vector加到result
+最後回傳result(每層的節點值)
+
+*/
