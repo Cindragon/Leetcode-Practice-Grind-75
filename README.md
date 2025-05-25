@@ -29,6 +29,7 @@
 | [0495-teemo-attacking](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0495-teemo-attacking) |
 | [1019-squares-of-a-sorted-array](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1019-squares-of-a-sorted-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3194-find-words-containing-character](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3194-find-words-containing-character) |
 ## Hash Table
 |  |
 | ------- |
@@ -177,6 +178,7 @@
 | [0459-repeated-substring-pattern](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0459-repeated-substring-pattern) |
 | [0541-reverse-string-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0541-reverse-string-ii) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [3194-find-words-containing-character](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3194-find-words-containing-character) |
 ## Math
 |  |
 | ------- |
