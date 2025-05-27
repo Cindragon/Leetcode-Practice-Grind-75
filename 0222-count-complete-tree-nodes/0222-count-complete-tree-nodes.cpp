@@ -24,7 +24,7 @@ public:
             right=right->right;
             rightDepth++;
         }
-        if(leftDepth==rightDepth) (2<<leftDepth)-1;;
+        if(leftDepth==rightDepth) return (2<<leftDepth)-1;
         return 1+countNodes(root->left)+countNodes(root->right);
     }
 };
