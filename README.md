@@ -69,6 +69,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0222-count-complete-tree-nodes) |
 | [0278-first-bad-version](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0349-intersection-of-two-arrays) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -242,6 +243,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
@@ -266,6 +268,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -277,4 +280,8 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0226-invert-binary-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
