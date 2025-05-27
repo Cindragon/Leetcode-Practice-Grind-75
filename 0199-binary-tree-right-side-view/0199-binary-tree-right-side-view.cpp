@@ -29,3 +29,8 @@ public:
         return vec;
     }
 };
+
+/*
+跟層次遍歷的方式一樣用queue來存各層的節點
+但是只有在該層最後一個節點再push_back值到vector裡
+*/
