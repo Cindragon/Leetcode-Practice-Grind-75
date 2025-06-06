@@ -255,6 +255,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0404-sum-of-left-leaves) |
+| [0513-find-bottom-left-tree-value](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0513-find-bottom-left-tree-value) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -271,6 +272,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0404-sum-of-left-leaves) |
+| [0513-find-bottom-left-tree-value](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0513-find-bottom-left-tree-value) |
 ## Binary Tree
 |  |
 | ------- |
@@ -290,6 +292,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0404-sum-of-left-leaves) |
+| [0513-find-bottom-left-tree-value](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0513-find-bottom-left-tree-value) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -301,6 +304,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0404-sum-of-left-leaves) |
+| [0513-find-bottom-left-tree-value](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0513-find-bottom-left-tree-value) |
 ## Bit Manipulation
 |  |
 | ------- |
