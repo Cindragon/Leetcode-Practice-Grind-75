@@ -24,8 +24,10 @@ public:
         postorder.resize(postorder.size()-1);
         vector<int> leftPostorder(postorder.begin(), postorder.begin()+leftInorder.size());
         vector<int> rightPostorder(postorder.begin()+leftInorder.size(), postorder.end());
-        root->left=buildTree(leftInorder, leftPostorder);
-        root->right=buildTree(rightInorder, rightPostorder);
+        if(!leftPostorder.empty())
+            root->left=Traversal(leftInorder, leftPostorder);
+        if(!rightPostorder.empty())
+            root->right=Traversal(rightInorder, rightPostorder);
         return root;
     }
     TreeNode* buildTree(vector<int>& inorder, vector<int>& postorder) {
