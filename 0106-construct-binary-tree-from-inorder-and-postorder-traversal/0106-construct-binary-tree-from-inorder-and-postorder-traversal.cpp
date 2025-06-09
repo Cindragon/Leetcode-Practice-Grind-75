@@ -16,7 +16,7 @@ public:
         TreeNode* root=new TreeNode(rootvalue);
         if(postorder.size()==1) return root;
         int index;
-        for(index=0;index<postorder.size();index++){
+        for(index=0;index<inorder.size();index++){
             if(inorder[index]==rootvalue) break;
         }
         vector<int> leftInorder(inorder.begin(), inorder.begin()+index);
