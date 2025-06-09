@@ -23,7 +23,7 @@ public:
         vector<int> rightinorder(inorder.begin()+index+1, inorder.end());
         vector<int> leftpreorder(preorder.begin()+1, preorder.begin()+1+leftinorder.size());
         vector<int> rightpreorder(preorder.begin()+1+leftinorder.size(), preorder.end());
-        if(!leftpreorder.empty())
+        if(!leftpreorder.empty())// 避免空向量導致的錯誤
             root->left=Traversal(leftpreorder, leftinorder);
         if(!rightpreorder.empty())
             root->right=Traversal(rightpreorder, rightinorder);
@@ -35,3 +35,9 @@ public:
         return Traversal(preorder, inorder);
     }
 };
+
+/*
+跟106題一樣的方式
+只是preorder不需要resize()，只要記得+1就好
+然後要避免左右子樹為空的情況
+*/
