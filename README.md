@@ -272,6 +272,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0513-find-bottom-left-tree-value) |
 | [0617-merge-two-binary-trees](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0617-merge-two-binary-trees) |
 | [0654-maximum-binary-tree](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0654-maximum-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0783-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -318,6 +319,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0513-find-bottom-left-tree-value) |
 | [0617-merge-two-binary-trees](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0617-merge-two-binary-trees) |
 | [0654-maximum-binary-tree](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0654-maximum-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0783-search-in-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -340,6 +342,7 @@
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0783-search-in-a-binary-search-tree) |
 ## Monotonic Stack
 |  |
 | ------- |
