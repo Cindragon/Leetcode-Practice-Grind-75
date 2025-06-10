@@ -18,3 +18,8 @@ public:
         return NULL;
     }
 };
+/*
+運用二元搜索樹的特性來找回傳值
+如果大於val往右邊找，小於往左邊找
+最後都沒有就return NULL
+*/
