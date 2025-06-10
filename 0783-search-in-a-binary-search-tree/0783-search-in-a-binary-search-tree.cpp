@@ -22,3 +22,18 @@ public:
 如果大於val往右邊找，小於往左邊找
 最後都沒有就return NULL(一開始的root==NULL)就回傳了
 */
+
+/*
+另一種解法(迭代法)
+class Solution {
+public:
+    TreeNode* searchBST(TreeNode* root, int val) {
+        while(root!=NULL){
+            if(val<root->val) root=root->left;
+            else if(val>root->val) root=root->right;
+            else return root;
+        }
+        return NULL;
+    }
+};
+*/
