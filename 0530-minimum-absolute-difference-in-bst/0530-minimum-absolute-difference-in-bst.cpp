@@ -17,7 +17,7 @@ public:
         if(root==NULL) return;
         Traversal(root->left);
         if(pre!=NULL){
-            result=min(result, abs(root->val-pre->val));
+            result=min(result, root->val-pre->val);
         }
         pre=root;
         Traversal(root->right);
@@ -27,3 +27,13 @@ public:
         return result;
     }
 };
+
+/*
+一樣用中序遍歷的方式
+透過自定義函數來遍歷整棵樹
+還有result作為INT最大值來比較
+並且加入pre指針來比較根節點與前一個節點相減的值
+如果pre不等於NULL的時候
+result就會是min(result, 相減值)
+最後再回傳result
+*/
