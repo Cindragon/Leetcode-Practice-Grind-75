@@ -30,7 +30,7 @@ public:
             }
             else{
                 TreeNode* cur=root->right;
-                while(cur->left!=NULL){
+                while(cur->left){
                     cur=cur->left;
                 }
                 cur->left=root->left;
