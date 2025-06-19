@@ -12,6 +12,7 @@
 | [0018-4sum](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0040-combination-sum-ii) |
 | [0056-merge-intervals](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0059-spiral-matrix-ii) |
@@ -147,6 +148,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0040-combination-sum-ii) |
 | [0113-path-sum-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0257-binary-tree-paths) |
 ## Linked List
