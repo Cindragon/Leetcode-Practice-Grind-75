@@ -136,6 +136,7 @@
 | [0059-spiral-matrix-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0067-add-binary) |
 | [0495-teemo-attacking](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0495-teemo-attacking) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -204,6 +205,7 @@
 | [0459-repeated-substring-pattern](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0459-repeated-substring-pattern) |
 | [0541-reverse-string-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0541-reverse-string-ii) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3194-find-words-containing-character](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3194-find-words-containing-character) |
 ## Math
 |  |
