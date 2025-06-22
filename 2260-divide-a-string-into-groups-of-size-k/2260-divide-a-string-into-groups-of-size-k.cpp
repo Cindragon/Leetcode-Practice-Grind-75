@@ -1,21 +1,19 @@
 class Solution {
 public:
-
     vector<string> divideString(string s, int k, char fill) {
         vector<string> res;
         string ds;
-        int n=s.size()-1;
-        for(int i=0;i<s.size();i++){
+        for(const auto&c:s){
+            ds+=c;
             if(ds.size()==k){
                 res.push_back(ds);
                 ds.clear();
             }
-            ds+=s[i];
         }
-        while(ds.size()<k){
-            ds+=fill;
+        if(!ds.empty()){
+            ds.append(k-ds.size(), fill);
+            res.push_back(ds);
         }
-        res.push_back(ds);
         return res;
     }
 };
