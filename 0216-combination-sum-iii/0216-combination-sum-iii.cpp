@@ -11,9 +11,11 @@ public:
         }
         for(int i=startIndex;i<=9;i++){
             if(sum+i>targetSum) break;
+            sum+=i;
             path.push_back(i);
-            backtracking(targetSum, k, sum+i, i+1);
-            path.pop_back();
+            backtracking(targetSum, k, sum, i+1);
+            sum-=i;     //一樣作回溯
+            path.pop_back();    //一樣作回溯
         }
         return;
     }
@@ -28,4 +30,5 @@ public:
 但是條件限制在1~9的數字
 而且一個數字只能用一次
 所以迴圈的條件要寫好
+此外sum跟path都一樣要做回溯
 */
