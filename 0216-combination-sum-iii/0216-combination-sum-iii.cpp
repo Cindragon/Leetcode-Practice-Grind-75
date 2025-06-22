@@ -10,8 +10,8 @@ public:
             }
         }
         for(int i=startIndex;i<=9;i++){
-            if(sum+i>targetSum) break;
             sum+=i;
+            if(sum>targetSum) break;
             path.push_back(i);
             backtracking(targetSum, k, sum, i+1);
             sum-=i;     //一樣作回溯
