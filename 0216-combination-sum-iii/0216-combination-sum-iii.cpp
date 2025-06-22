@@ -9,7 +9,7 @@ public:
                 return;
             }
         }
-        for(int i=startIndex;i<=9;i++){
+        for(int i=startIndex;i<=9-(k-path.size())+1;i++){
             sum+=i;
             if(sum>targetSum) break;
             path.push_back(i);
