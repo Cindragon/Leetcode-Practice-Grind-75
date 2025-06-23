@@ -64,6 +64,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0131-palindrome-partitioning) |
 ## Sorting
 |  |
 | ------- |
@@ -156,6 +157,7 @@
 | [0040-combination-sum-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0077-combinations) |
 | [0113-path-sum-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0113-path-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0257-binary-tree-paths) |
 ## Linked List
@@ -200,6 +202,7 @@
 | [0020-valid-parentheses](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0257-binary-tree-paths) |
