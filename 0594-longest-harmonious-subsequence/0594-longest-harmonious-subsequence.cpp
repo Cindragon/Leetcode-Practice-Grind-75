@@ -16,9 +16,3 @@ public:
         return maxLen;
     }
 };
-/*
-使用sort+雙指標的方式，將兩數進行比較
-   - 如果 nums[right] - nums[left] > 1，代表區間內數字差距太大，要縮小左界 → left++
-   - 如果 nums[right] - nums[left] == 1，代表區間是合法的，計算長度 right - left + 1，更新 maxLen
-最後return maxLen
-*/
