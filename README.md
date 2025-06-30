@@ -33,6 +33,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0349-intersection-of-two-arrays) |
 | [0454-4sum-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0454-4sum-ii) |
 | [0495-teemo-attacking](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0495-teemo-attacking) |
+| [0594-longest-harmonious-subsequence](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0594-longest-harmonious-subsequence) |
 | [0654-maximum-binary-tree](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0654-maximum-binary-tree) |
 | [1019-squares-of-a-sorted-array](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1019-squares-of-a-sorted-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -60,6 +61,7 @@
 | [0409-longest-palindrome](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0454-4sum-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0454-4sum-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0594-longest-harmonious-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -80,6 +82,7 @@
 | [0268-missing-number](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0349-intersection-of-two-arrays) |
+| [0594-longest-harmonious-subsequence](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0594-longest-harmonious-subsequence) |
 | [1019-squares-of-a-sorted-array](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1019-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -96,6 +99,7 @@
 | [0169-majority-element](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0383-ransom-note) |
+| [0594-longest-harmonious-subsequence](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0594-longest-harmonious-subsequence) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Two Pointers
 |  |
@@ -127,6 +131,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0594-longest-harmonious-subsequence) |
 ## Prefix Sum
 |  |
 | ------- |
