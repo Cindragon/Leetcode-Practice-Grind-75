@@ -2,17 +2,15 @@ class Solution {
 public:
     vector<int> path;
     vector<vector<int>> res;
-    void backtracking(vector<int>& nums, int startIndex, vector<bool>& used){
+    void backtracking(vector<int>& nums, int startIndex){
         res.push_back(path);
         if(startIndex>=nums.size()) return;
         for(int i=startIndex;i<nums.size();i++){
-            if(i>0&&nums[i]==nums[i-1]&&used[i-1]==false){
+            if(i>startIndex&&nums[i]==nums[i-1]){
                 continue;
             }
             path.push_back(nums[i]);
-            used[i]=true;
-            backtracking(nums, i+1, used);
-            used[i]=false;
+            backtracking(nums, i+1);
             path.pop_back();
         }
         return;
@@ -21,8 +19,7 @@ public:
         sort(nums.begin(), nums.end());
         path.clear();
         res.clear();
-        vector<bool> used(nums.size(), false);
-        backtracking(nums, 0, used);
+        backtracking(nums, 0);
         return res;
     }
 };
