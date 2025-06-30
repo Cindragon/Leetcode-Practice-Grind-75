@@ -1,15 +1,16 @@
 class Solution {
 public:
     int findLHS(vector<int>& nums) {
-        if(nums.size()<=1) return 0;
-        sort(nums.begin(), nums.end());
-        int left=0, maxLen=0;
-        for(int right=0;right<nums.size();right++){
-            while(nums[right]-nums[left]>1){
-                left++;
-            }
-            if(nums[right]-nums[left]==1){
-                maxLen=max(maxLen, right-left+1);
+        unordered_map<int, int> mp;
+        for(const auto&i:nums){
+            mp[i]++;
+        }
+        int maxLen=0;
+        for(auto it=mp.begin();it!=mp.end();it++){
+            int num=it->first;
+            int cnt=it->second;
+            if(mp.count(num+1)){    //如果存在等於 num+1 的數
+                maxLen=max(maxLen, cnt+mp[num+1]);  //計算最長合法子序列長度(進行比較)
             }
         }
         return maxLen;
