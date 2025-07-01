@@ -13,6 +13,7 @@
 | [0027-remove-element](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0046-permutations) |
 | [0056-merge-intervals](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0059-spiral-matrix-ii) |
@@ -169,6 +170,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0090-subsets-ii) |
