@@ -8,7 +8,7 @@ public:
             return;
         }
         for(int i=0;i<nums.size();i++){
-            if(used[i]) continue;
+            if(used[i]) continue;   //path裡面已經有的元素直接跳過
             used[i]=true;
             path.push_back(nums[i]);
             backtracking(nums, used);
