@@ -17,6 +17,7 @@
 | [0046-permutations](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0059-spiral-matrix-ii) |
@@ -78,6 +79,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0131-palindrome-partitioning) |
@@ -169,6 +171,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
