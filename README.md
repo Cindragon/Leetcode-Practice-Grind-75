@@ -18,6 +18,7 @@
 | [0047-permutations-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0059-spiral-matrix-ii) |
@@ -81,6 +82,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -230,6 +232,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0376-wiggle-subsequence](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0376-wiggle-subsequence) |
 | [0409-longest-palindrome](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0409-longest-palindrome) |
