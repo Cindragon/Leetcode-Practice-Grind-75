@@ -16,3 +16,12 @@ public:
         return start;
     }
 };
+
+/*
+使用貪心算法的方式來算
+定義一個currSum來找到從哪裡開始比較好，totalSum 用來計算如果消耗始終大於補充，代表找不到起始位置
+在for迴圈中，currSum跟totalSum持續相加油量差
+如果currSum<0，說明這個位置沒有辦法當起始位置
+只能在從i+1再繼續開始
+最後回傳start
+*/
