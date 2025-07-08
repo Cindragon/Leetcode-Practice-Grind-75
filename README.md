@@ -101,6 +101,7 @@
 | [0131-palindrome-partitioning](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0131-palindrome-partitioning) |
 | [0376-wiggle-subsequence](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0376-wiggle-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0435-non-overlapping-intervals) |
+| [1008-binary-tree-cameras](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1008-binary-tree-cameras) |
 ## Sorting
 |  |
 | ------- |
@@ -382,6 +383,7 @@
 | [0654-maximum-binary-tree](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0654-maximum-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0669-trim-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0783-search-in-a-binary-search-tree) |
+| [1008-binary-tree-cameras](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1008-binary-tree-cameras) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -409,6 +411,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0617-merge-two-binary-trees) |
 | [0669-trim-a-binary-search-tree](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0669-trim-a-binary-search-tree) |
+| [1008-binary-tree-cameras](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1008-binary-tree-cameras) |
 ## Binary Tree
 |  |
 | ------- |
@@ -445,6 +448,7 @@
 | [0654-maximum-binary-tree](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0654-maximum-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0669-trim-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0783-search-in-a-binary-search-tree) |
+| [1008-binary-tree-cameras](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1008-binary-tree-cameras) |
 ## Breadth-First Search
 |  |
 | ------- |
