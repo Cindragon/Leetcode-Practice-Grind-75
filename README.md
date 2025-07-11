@@ -102,6 +102,7 @@
 | [0376-wiggle-subsequence](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0376-wiggle-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0435-non-overlapping-intervals) |
 | [1008-binary-tree-cameras](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1008-binary-tree-cameras) |
+| [1013-fibonacci-number](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1013-fibonacci-number) |
 ## Sorting
 |  |
 | ------- |
@@ -242,6 +243,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0206-reverse-linked-list) |
+| [1013-fibonacci-number](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1013-fibonacci-number) |
 ## Design
 |  |
 | ------- |
@@ -299,6 +301,7 @@
 | [0202-happy-number](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0268-missing-number) |
 | [0738-monotone-increasing-digits](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0738-monotone-increasing-digits) |
+| [1013-fibonacci-number](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1013-fibonacci-number) |
 | [2998-count-symmetric-integers](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Enumeration
@@ -497,4 +500,8 @@
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0406-queue-reconstruction-by-height) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
