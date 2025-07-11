@@ -53,6 +53,7 @@
 | [0495-teemo-attacking](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0495-teemo-attacking) |
 | [0594-longest-harmonious-subsequence](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0594-longest-harmonious-subsequence) |
 | [0654-maximum-binary-tree](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0654-maximum-binary-tree) |
+| [0747-min-cost-climbing-stairs](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0747-min-cost-climbing-stairs) |
 | [0890-lemonade-change](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0890-lemonade-change) |
 | [1019-squares-of-a-sorted-array](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1019-squares-of-a-sorted-array) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1047-maximize-sum-of-array-after-k-negations) |
@@ -102,6 +103,7 @@
 | [0131-palindrome-partitioning](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0131-palindrome-partitioning) |
 | [0376-wiggle-subsequence](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0376-wiggle-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0435-non-overlapping-intervals) |
+| [0747-min-cost-climbing-stairs](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0747-min-cost-climbing-stairs) |
 | [1008-binary-tree-cameras](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1008-binary-tree-cameras) |
 | [1013-fibonacci-number](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1013-fibonacci-number) |
 ## Sorting
