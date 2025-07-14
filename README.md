@@ -100,6 +100,7 @@
 | [0062-unique-paths](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -308,6 +309,7 @@
 | [0062-unique-paths](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0268-missing-number) |
 | [0343-integer-break](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0343-integer-break) |
@@ -365,6 +367,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0101-symmetric-tree) |
@@ -430,6 +433,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0101-symmetric-tree) |
@@ -491,6 +495,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
