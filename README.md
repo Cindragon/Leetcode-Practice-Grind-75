@@ -96,6 +96,7 @@
 | [0045-jump-game-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -300,6 +301,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0202-happy-number) |
@@ -509,4 +511,8 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1013-fibonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
