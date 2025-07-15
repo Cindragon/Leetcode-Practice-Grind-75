@@ -302,6 +302,7 @@
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3194-find-words-containing-character](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3194-find-words-containing-character) |
+| [3396-valid-word](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3617-find-the-original-typed-string-i) |
 ## Math
 |  |
