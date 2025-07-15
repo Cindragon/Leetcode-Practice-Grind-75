@@ -245,6 +245,7 @@
 | [0237-delete-node-in-a-linked-list](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0237-delete-node-in-a-linked-list) |
 | [0838-design-linked-list](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0908-middle-of-the-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
@@ -316,6 +317,7 @@
 | [0343-integer-break](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0343-integer-break) |
 | [0738-monotone-increasing-digits](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0738-monotone-increasing-digits) |
 | [1013-fibonacci-number](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1013-fibonacci-number) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2998-count-symmetric-integers](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Enumeration
