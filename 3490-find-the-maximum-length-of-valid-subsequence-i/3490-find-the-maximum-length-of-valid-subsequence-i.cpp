@@ -1,17 +1,16 @@
 class Solution {
 public:
     int maximumLength(vector<int>& nums) {
-        vector<int> sub(4, 0);
-        for(const auto&n:nums){
-            if(n%2==0){
-                sub[0]++;   //偶數個數
-                sub[2]=sub[3]+1;    //奇數結尾加上現在的偶數
-            }
-            else{
-                sub[1]++;   //奇數個數
-                sub[3]=sub[2]+1;    //偶數結尾加上現在的奇數
+        int even=0, odd=0, alternate=1, pre=nums[0];
+        for(int i=0;i<nums.size();i++){
+            if(nums[i]%2==0)    even++;
+            else    odd++;
+            
+            if(i>=1&&nums[i]%2!=pre%2){
+                alternate++;
+                pre=nums[i];
             }
         }
-        return max({sub[0],sub[1], sub[2], sub[3]});
+        return max({even, odd, alternate});
     }
 };
