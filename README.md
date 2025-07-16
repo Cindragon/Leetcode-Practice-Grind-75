@@ -57,6 +57,7 @@
 | [0654-maximum-binary-tree](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0654-maximum-binary-tree) |
 | [0747-min-cost-climbing-stairs](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0747-min-cost-climbing-stairs) |
 | [0890-lemonade-change](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0890-lemonade-change) |
+| [0917-boats-to-save-people](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1019-squares-of-a-sorted-array) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1130-last-stone-weight-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1130-last-stone-weight-ii) |
@@ -136,6 +137,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0594-longest-harmonious-subsequence) |
+| [0917-boats-to-save-people](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1019-squares-of-a-sorted-array) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 ## Binary Search
@@ -179,6 +181,7 @@
 | [0541-reverse-string-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0541-reverse-string-ii) |
 | [0768-partition-labels](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0768-partition-labels) |
 | [0908-middle-of-the-linked-list](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0908-middle-of-the-linked-list) |
+| [0917-boats-to-save-people](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1019-squares-of-a-sorted-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Sliding Window
@@ -283,6 +286,7 @@
 | [0738-monotone-increasing-digits](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0738-monotone-increasing-digits) |
 | [0768-partition-labels](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0768-partition-labels) |
 | [0890-lemonade-change](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0890-lemonade-change) |
+| [0917-boats-to-save-people](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0917-boats-to-save-people) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 ## String
 |  |
