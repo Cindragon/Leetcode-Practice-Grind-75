@@ -8,7 +8,6 @@ public:
         for(int i=1;i<nums.size();i++){
             dp[i]=max(dp[i-1]+nums[i], nums[i]);
             if(res<dp[i])   res=dp[i];
-            cout<<dp[i];
         }
         return res;
     }
