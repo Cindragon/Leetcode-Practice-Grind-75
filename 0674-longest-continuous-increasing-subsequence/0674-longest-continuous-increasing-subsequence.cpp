@@ -10,8 +10,13 @@ public:
                 dp[i]=dp[i-1]+1;
             }
             if(res<dp[i])   res=dp[i];
-            cout<<dp[i];
         }
         return res;
     }
 };
+
+/*
+這題可以用貪心算法也可以用動態規劃的方式處理
+遞推公式中，只要 nums[i]>nums[i-1]，dp[i]=dp[i-1]+1(長度又變長了)
+接著只要記錄最大值並且回傳即可
+*/
