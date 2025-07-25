@@ -251,6 +251,7 @@
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0495-teemo-attacking) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 ## Divide and Conquer
@@ -353,6 +354,7 @@
 | [0383-ransom-note](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0459-repeated-substring-pattern) |
 | [0474-ones-and-zeroes](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0474-ones-and-zeroes) |
@@ -375,6 +377,7 @@
 | [0202-happy-number](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0268-missing-number) |
 | [0343-integer-break](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0343-integer-break) |
+| [0412-fizz-buzz](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0412-fizz-buzz) |
 | [0738-monotone-increasing-digits](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0738-monotone-increasing-digits) |
 | [1013-fibonacci-number](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
