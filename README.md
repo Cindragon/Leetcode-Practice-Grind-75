@@ -139,6 +139,7 @@
 | [0343-integer-break](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0343-integer-break) |
 | [0376-wiggle-subsequence](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0377-combination-sum-iv) |
+| [0392-is-subsequence](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0474-ones-and-zeroes) |
@@ -213,6 +214,7 @@
 | [0283-move-zeroes](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0541-reverse-string-ii) |
 | [0768-partition-labels](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0768-partition-labels) |
@@ -344,6 +346,7 @@
 | [0257-binary-tree-paths](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0459-repeated-substring-pattern) |
