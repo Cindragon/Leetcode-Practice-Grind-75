@@ -79,6 +79,7 @@
 | [1130-last-stone-weight-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1130-last-stone-weight-ii) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1791-richest-customer-wealth](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1791-richest-customer-wealth) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3194-find-words-containing-character](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3194-find-words-containing-character) |
