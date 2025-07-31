@@ -73,6 +73,7 @@
 | [0747-min-cost-climbing-stairs](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0747-min-cost-climbing-stairs) |
 | [0890-lemonade-change](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0917-boats-to-save-people) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1019-squares-of-a-sorted-array](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1019-squares-of-a-sorted-array) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1105-uncrossed-lines](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1105-uncrossed-lines) |
@@ -152,6 +153,7 @@
 | [0518-coin-change-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0518-coin-change-ii) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0747-min-cost-climbing-stairs](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0747-min-cost-climbing-stairs) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1008-binary-tree-cameras](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1008-binary-tree-cameras) |
 | [1013-fibonacci-number](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1013-fibonacci-number) |
 | [1105-uncrossed-lines](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1105-uncrossed-lines) |
@@ -569,6 +571,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0268-missing-number) |
 | [0491-non-decreasing-subsequences](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0491-non-decreasing-subsequences) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Binary Search Tree
 |  |
