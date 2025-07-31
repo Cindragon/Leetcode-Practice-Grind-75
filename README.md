@@ -660,4 +660,8 @@
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
