@@ -66,6 +66,7 @@
 | [0494-target-sum](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0494-target-sum) |
 | [0495-teemo-attacking](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0518-coin-change-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0594-longest-harmonious-subsequence) |
 | [0654-maximum-binary-tree](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0654-maximum-binary-tree) |
@@ -410,6 +411,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0503-next-greater-element-ii) |
 | [0654-maximum-binary-tree](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0739-daily-temperatures) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -595,6 +597,7 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0503-next-greater-element-ii) |
 | [0654-maximum-binary-tree](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0739-daily-temperatures) |
 ## Binary Indexed Tree
