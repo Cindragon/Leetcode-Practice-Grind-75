@@ -664,6 +664,7 @@
 |  |
 | ------- |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0570-managers-with-at-least-5-direct-reports) |
+| [0584-find-customer-referee](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0584-find-customer-referee) |
 | [1390-average-selling-price](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1415-students-and-examinations) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1908-recyclable-and-low-fat-products) |
