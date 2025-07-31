@@ -28,6 +28,7 @@
 | [0063-unique-paths-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0078-subsets) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -410,6 +411,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0145-binary-tree-postorder-traversal) |
@@ -603,6 +605,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0503-next-greater-element-ii) |
 | [0654-maximum-binary-tree](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0654-maximum-binary-tree) |
