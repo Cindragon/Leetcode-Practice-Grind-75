@@ -411,6 +411,7 @@
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2998-count-symmetric-integers](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3918-check-divisibility-by-digit-sum-and-product](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 ## Enumeration
 |  |
 | ------- |
