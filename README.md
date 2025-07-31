@@ -670,6 +670,7 @@
 | [1390-average-selling-price](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1415-students-and-examinations) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
+| [1801-average-time-of-process-per-machine](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1801-average-time-of-process-per-machine) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1908-recyclable-and-low-fat-products) |
 | [2087-confirmation-rate](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2087-confirmation-rate) |
 <!---LeetCode Topics End-->
