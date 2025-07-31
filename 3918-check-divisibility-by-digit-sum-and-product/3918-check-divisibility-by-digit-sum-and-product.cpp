@@ -9,6 +9,9 @@ public:
             prod*=num;
             n=n/10;
         }
-    return (n%(sum+prod)==0);
+        sum+=prod;
+        cout<<sum;
+        if(origin%sum==0)return true;
+        else return false;
     }
 };
