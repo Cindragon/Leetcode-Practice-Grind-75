@@ -70,6 +70,7 @@
 | [0654-maximum-binary-tree](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0654-maximum-binary-tree) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0739-daily-temperatures](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0747-min-cost-climbing-stairs) |
 | [0890-lemonade-change](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0917-boats-to-save-people) |
@@ -407,6 +408,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0232-implement-queue-using-stacks) |
 | [0654-maximum-binary-tree](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0654-maximum-binary-tree) |
+| [0739-daily-temperatures](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0739-daily-temperatures) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Queue
 |  |
@@ -590,6 +592,7 @@
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0654-maximum-binary-tree) |
+| [0739-daily-temperatures](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0739-daily-temperatures) |
 ## Binary Indexed Tree
 |  |
 | ------- |
