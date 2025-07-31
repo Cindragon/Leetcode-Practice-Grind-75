@@ -38,6 +38,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0134-gas-station](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -586,6 +587,7 @@
 | [0067-add-binary](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0268-missing-number) |
 | [0491-non-decreasing-subsequences](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0491-non-decreasing-subsequences) |
