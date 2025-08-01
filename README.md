@@ -33,6 +33,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -140,6 +141,7 @@
 | [0072-edit-distance](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0115-distinct-subsequences) |
+| [0118-pascals-triangle](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
