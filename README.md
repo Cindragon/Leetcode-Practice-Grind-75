@@ -86,6 +86,7 @@
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1105-uncrossed-lines](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1105-uncrossed-lines) |
 | [1130-last-stone-weight-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1130-last-stone-weight-ii) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1791-richest-customer-wealth](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1791-richest-customer-wealth) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -125,6 +126,7 @@
 | [0496-next-greater-element-i](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0768-partition-labels) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1510-find-lucky-integer-in-an-array) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -200,6 +202,7 @@
 | [0917-boats-to-save-people](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1019-squares-of-a-sorted-array) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -679,4 +682,8 @@
 | [1801-average-time-of-process-per-machine](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1801-average-time-of-process-per-machine) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1908-recyclable-and-low-fat-products) |
 | [2087-confirmation-rate](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2087-confirmation-rate) |
+## Counting Sort
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
