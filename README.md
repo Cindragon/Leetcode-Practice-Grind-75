@@ -680,6 +680,7 @@
 | [0595-big-countries](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0595-big-countries) |
 | [1153-product-sales-analysis-i](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1153-product-sales-analysis-i) |
 | [1161-project-employees-i](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1161-project-employees-i) |
+| [1245-user-activity-for-the-past-30-days-i](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1292-immediate-food-delivery-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1292-immediate-food-delivery-ii) |
 | [1390-average-selling-price](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1415-students-and-examinations) |
