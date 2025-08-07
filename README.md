@@ -686,6 +686,7 @@
 | [1292-immediate-food-delivery-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1292-immediate-food-delivery-ii) |
 | [1390-average-selling-price](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1415-students-and-examinations) |
+| [1480-movie-rating](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1480-movie-rating) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1801-average-time-of-process-per-machine](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1801-average-time-of-process-per-machine) |
 | [1877-find-followers-count](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1877-find-followers-count) |
