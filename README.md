@@ -677,6 +677,7 @@
 | ------- |
 | [0180-consecutive-numbers](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0180-consecutive-numbers) |
 | [0185-department-top-three-salaries](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0185-department-top-three-salaries) |
+| [0196-delete-duplicate-emails](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0196-delete-duplicate-emails) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0584-find-customer-referee](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0584-find-customer-referee) |
 | [0585-investments-in-2016](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0585-investments-in-2016) |
