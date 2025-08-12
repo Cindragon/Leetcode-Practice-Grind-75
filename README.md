@@ -181,6 +181,7 @@
 | [1105-uncrossed-lines](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1105-uncrossed-lines) |
 | [1130-last-stone-weight-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1130-last-stone-weight-ii) |
 | [1250-longest-common-subsequence](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1250-longest-common-subsequence) |
+| [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Sorting
 |  |
