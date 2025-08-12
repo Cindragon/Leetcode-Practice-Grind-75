@@ -79,6 +79,7 @@
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0739-daily-temperatures](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0747-min-cost-climbing-stairs) |
+| [0792-binary-search](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0917-boats-to-save-people) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -216,6 +217,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0349-intersection-of-two-arrays) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0792-binary-search](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0792-binary-search) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3790-fruits-into-baskets-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3790-fruits-into-baskets-ii) |
 ## Counting
