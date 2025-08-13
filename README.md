@@ -21,6 +21,7 @@
 | [0047-permutations-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0057-insert-interval) |
@@ -278,12 +279,14 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0037-sudoku-solver) |
+| [0054-spiral-matrix](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0063-unique-paths-ii) |
 | [1791-richest-customer-wealth](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1791-richest-customer-wealth) |
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0412-fizz-buzz) |
