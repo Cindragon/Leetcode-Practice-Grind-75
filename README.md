@@ -343,6 +343,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0206-reverse-linked-list) |
+| [0326-power-of-three](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1013-fibonacci-number) |
 ## Design
 |  |
@@ -418,6 +419,7 @@
 | [0096-unique-binary-search-trees](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0326-power-of-three) |
 | [0343-integer-break](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0343-integer-break) |
 | [0412-fizz-buzz](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0412-fizz-buzz) |
 | [0738-monotone-increasing-digits](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0738-monotone-increasing-digits) |
