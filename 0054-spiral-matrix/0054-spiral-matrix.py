@@ -21,3 +21,7 @@ class Solution:
                 left+=1
         return res
 
+"""
+其實就跟 C++ 的寫法一樣，同樣要注意左右邊界
+還有要注意的是因為 python 的 range 是左閉右開，所以要記得 +1 跟 -1
+"""
