@@ -5,17 +5,16 @@ public:
         LinkedNode* next;
         LinkedNode(int val):val(val), next(nullptr){}
     };
-
     MyLinkedList() {
-        dummyHead=new LinkedNode(0);
+        dummyhead=new LinkedNode(0);
         size=0;
     }
     
     int get(int index) {
-        if(index<0||index>(size-1)){
+        if(index>size-1||index<0){
             return -1;
         }
-        LinkedNode* curr=dummyHead->next;
+        LinkedNode* curr=dummyhead->next;
         while(index--){
             curr=curr->next;
         }
@@ -23,53 +22,50 @@ public:
     }
     
     void addAtHead(int val) {
-        LinkedNode* newNode=new LinkedNode(val);
-        newNode->next=dummyHead->next;
-        dummyHead->next=newNode;
+        LinkedNode* ptr=new LinkedNode(val);
+        ptr->next=dummyhead->next;
+        dummyhead->next=ptr;
         size++;
     }
     
     void addAtTail(int val) {
-        LinkedNode* newNode=new LinkedNode(val);
-        LinkedNode* curr=dummyHead;
+        LinkedNode* curr=dummyhead;
+        LinkedNode* ptr=new LinkedNode(val);
         while(curr->next!=NULL){
             curr=curr->next;
         }
-        curr->next=newNode;
+        curr->next=ptr;
         size++;
     }
     
     void addAtIndex(int index, int val) {
-        if(index>size) return;
-        if(index<0) index=0;
-        LinkedNode* newNode=new LinkedNode(val);
-        LinkedNode*curr = dummyHead;
+        if(index>size || index<0)  return;
+        LinkedNode* ptr=new LinkedNode(val);
+        LinkedNode* curr=dummyhead;
         while(index--){
             curr=curr->next;
         }
-        newNode->next=curr->next;
-        curr->next=newNode;
+        ptr->next=curr->next;
+        curr->next=ptr;
         size++;
     }
     
     void deleteAtIndex(int index) {
         if(index>=size||index<0) return;
-        LinkedNode*curr = dummyHead;
+        LinkedNode* curr=dummyhead;
         while(index--){
             curr=curr->next;
         }
-        LinkedNode* temp=curr->next;
+        LinkedNode*temp=curr->next;
         curr->next=curr->next->next;
         delete temp;
-        temp=nullptr;
+        temp=NULL;
         size--;
     }
 private:
     int size;
-    LinkedNode* dummyHead;
+    LinkedNode* dummyhead;
 };
-
-
 
 /**
  * Your MyLinkedList object will be instantiated and called as such:
