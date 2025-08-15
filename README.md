@@ -348,6 +348,7 @@
 | [0203-remove-linked-list-elements](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1013-fibonacci-number) |
 ## Design
 |  |
@@ -425,6 +426,7 @@
 | [0202-happy-number](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0343-integer-break) |
 | [0412-fizz-buzz](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0412-fizz-buzz) |
 | [0738-monotone-increasing-digits](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0738-monotone-increasing-digits) |
@@ -622,6 +624,7 @@
 | [0136-single-number](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0342-power-of-four) |
 | [0491-non-decreasing-subsequences](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0491-non-decreasing-subsequences) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
