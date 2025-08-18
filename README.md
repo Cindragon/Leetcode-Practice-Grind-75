@@ -178,6 +178,7 @@
 | [0647-palindromic-substrings](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0647-palindromic-substrings) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0747-min-cost-climbing-stairs](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0747-min-cost-climbing-stairs) |
+| [0867-new-21-game](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1008-binary-tree-cameras](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1008-binary-tree-cameras) |
 | [1013-fibonacci-number](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1013-fibonacci-number) |
@@ -270,6 +271,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0594-longest-harmonious-subsequence) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0867-new-21-game](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0867-new-21-game) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -431,6 +433,7 @@
 | [0343-integer-break](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0343-integer-break) |
 | [0412-fizz-buzz](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0412-fizz-buzz) |
 | [0738-monotone-increasing-digits](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0738-monotone-increasing-digits) |
+| [0867-new-21-game](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0867-new-21-game) |
 | [1013-fibonacci-number](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -736,4 +739,8 @@
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3790-fruits-into-baskets-ii) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
