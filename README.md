@@ -92,6 +92,7 @@
 | [1130-last-stone-weight-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1130-last-stone-weight-ii) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1791-richest-customer-wealth](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1791-richest-customer-wealth) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -188,6 +189,7 @@
 | [1105-uncrossed-lines](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1105-uncrossed-lines) |
 | [1130-last-stone-weight-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1130-last-stone-weight-ii) |
 | [1250-longest-common-subsequence](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1250-longest-common-subsequence) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Sorting
@@ -275,6 +277,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0594-longest-harmonious-subsequence) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0867-new-21-game](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0867-new-21-game) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Prefix Sum
 |  |
 | ------- |
