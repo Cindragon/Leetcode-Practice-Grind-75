@@ -101,6 +101,7 @@
 | [2529-range-product-queries-of-powers](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2529-range-product-queries-of-powers) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3194-find-words-containing-character](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3194-find-words-containing-character) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
