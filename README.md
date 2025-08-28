@@ -87,6 +87,7 @@
 | [0934-bitwise-ors-of-subarrays](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0978-valid-mountain-array](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0978-valid-mountain-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1019-squares-of-a-sorted-array) |
+| [1044-find-common-characters](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1044-find-common-characters) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1105-uncrossed-lines](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1105-uncrossed-lines) |
 | [1130-last-stone-weight-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1130-last-stone-weight-ii) |
@@ -135,6 +136,7 @@
 | [0496-next-greater-element-i](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0768-partition-labels) |
+| [1044-find-common-characters](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1044-find-common-characters) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1510-find-lucky-integer-in-an-array) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -419,6 +421,7 @@
 | [0583-delete-operation-for-two-strings](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0647-palindromic-substrings) |
 | [0768-partition-labels](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0768-partition-labels) |
+| [1044-find-common-characters](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1044-find-common-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1250-longest-common-subsequence](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1302-delete-characters-to-make-fancy-string) |
