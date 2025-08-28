@@ -12,3 +12,9 @@ class Solution:
             else:
                 n=newNum
         return False
+
+'''
+使用集合的方式來計算 happy number
+並且用轉換成 string 的方式來計算加總過後的數值
+並且不斷更新原本的n，直到n=1或是出現在集合中
+'''
