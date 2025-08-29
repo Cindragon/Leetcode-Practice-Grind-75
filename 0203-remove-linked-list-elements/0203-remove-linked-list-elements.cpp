@@ -11,7 +11,7 @@
 class Solution {
 public:
     ListNode* removeElements(ListNode* head, int val) {
-        ListNode* dummyhead =new ListNode();
+        ListNode* dummyhead=new ListNode();
         dummyhead->next=head;
         ListNode* curr=dummyhead;
         while(curr->next!=NULL){
@@ -28,17 +28,3 @@ public:
         return newhead;
     }
 };
-
-/*
-ListNode* current 是用來遍歷鏈結串鏈的虛擬節點
-
-要對 head 是否為空或是val等於 val 進行判斷
-若是 head=head->next
-
-dummyhead 方式
-用一個虛擬dummyhead 節點來統一刪除節點的方式
-curr->next不等於NULL的話
-我們要刪除的是curr->next
-curr->next->val==target
-curr->next=curr->next->next;
-*/
