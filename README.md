@@ -19,6 +19,7 @@
 | [0045-jump-game-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0054-spiral-matrix) |
@@ -115,6 +116,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0139-word-break](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0139-word-break) |
@@ -201,6 +203,7 @@
 | [0015-3sum](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0169-majority-element) |
@@ -398,6 +401,7 @@
 | [0008-string-to-integer-atoi](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0072-edit-distance) |
 | [0093-restore-ip-addresses](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0093-restore-ip-addresses) |
