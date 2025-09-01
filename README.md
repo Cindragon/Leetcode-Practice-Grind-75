@@ -11,6 +11,7 @@
 | [0015-3sum](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0027-remove-element) |
+| [0036-valid-sudoku](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0040-combination-sum-ii) |
@@ -114,6 +115,7 @@
 | [0001-two-sum](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0049-group-anagrams) |
@@ -293,6 +295,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0059-spiral-matrix-ii) |
