@@ -257,6 +257,7 @@
 | [0018-4sum](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0125-valid-palindrome) |
@@ -406,6 +407,7 @@
 | [0008-string-to-integer-atoi](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0072-edit-distance) |
@@ -469,6 +471,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0459-repeated-substring-pattern) |
 ## Stack
 |  |
