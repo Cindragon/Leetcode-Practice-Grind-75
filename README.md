@@ -106,6 +106,7 @@
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3194-find-words-containing-character](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3194-find-words-containing-character) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -225,6 +226,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1019-squares-of-a-sorted-array) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -462,12 +464,14 @@
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2998-count-symmetric-integers](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 ## Enumeration
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2998-count-symmetric-integers](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2998-count-symmetric-integers) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## String Matching
 |  |
 | ------- |
@@ -771,4 +775,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0128-longest-consecutive-sequence) |
+## Geometry
+|  |
+| ------- |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
