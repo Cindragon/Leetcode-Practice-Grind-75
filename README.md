@@ -468,6 +468,7 @@
 | [2998-count-symmetric-integers](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3830-find-closest-person](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3830-find-closest-person) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 ## Enumeration
 |  |
