@@ -202,6 +202,7 @@
 | [1130-last-stone-weight-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1130-last-stone-weight-ii) |
 | [1250-longest-common-subsequence](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1250-longest-common-subsequence) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Sorting
@@ -320,6 +321,7 @@
 | [0412-fizz-buzz](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0495-teemo-attacking) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3790-fruits-into-baskets-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3790-fruits-into-baskets-ii) |
 ## Divide and Conquer
 |  |
@@ -507,6 +509,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0239-sliding-window-maximum) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
