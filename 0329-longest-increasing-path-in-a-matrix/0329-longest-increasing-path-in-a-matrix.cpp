@@ -3,8 +3,7 @@ public:
     int m, n;
     vector<pair<int, int>> dir={{1,0}, {0, 1}, {-1, 0}, {0, -1}};
     int dfs(int i, int j, vector<vector<int>>&matrix, vector<vector<int>>&dp){
-        if (i < 0 || i >= m || j < 0 || j >= n) return 0;
-        if(dp[i][j]!=0) return dp[i][j];
+        if(dp[i][j]!=-1) return dp[i][j];
         int res=1;
         for(const auto&d:dir){
             int x=i+d.first;
@@ -20,7 +19,7 @@ public:
     int longestIncreasingPath(vector<vector<int>>& matrix) {
         m=matrix.size();
         n=matrix[0].size();
-        vector<vector<int>> dp(m, vector<int>(n, 0));
+        vector<vector<int>> dp(m, vector<int>(n, -1));
         int ans=0;
         for(int i=0;i<m;i++){
             for(int j=0;j<n;j++){
@@ -40,6 +39,7 @@ public:
 因此透過 dir 陣列，對於每個方向 (上下左右)，若 matrix[x][y] > matrix[i][j]，則更新最長路徑的長度。
 初始值 res 為 1 (包含自己)
 res=max(res, 1+dfs(m, n, x, y, matrix, dp));
+若是 dp[i][j] != -1，代表已經計算過了，直接回傳 dp[i][j] 即可
 3. 初始化：設立一個 m*n 大小的陣列，並且將值初始化為0
 4. 遍歷順序：透過 dfs 加上記憶化的概念，遍歷整個矩陣，對每個格子呼叫 dfs，並且用 ans 來更新最長路徑的長度，最後回傳最大值。
 5. 印出 dp 數組 (非必要)：用來檢查自己的邏輯是否正確
