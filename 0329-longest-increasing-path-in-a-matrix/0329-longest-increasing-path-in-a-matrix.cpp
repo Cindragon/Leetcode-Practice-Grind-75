@@ -3,6 +3,7 @@ public:
     int m, n;
     vector<pair<int, int>> dir={{1,0}, {0, 1}, {-1, 0}, {0, -1}};
     int dfs(int i, int j, vector<vector<int>>&matrix, vector<vector<int>>&dp){
+        if (i < 0 || i >= m || j < 0 || j >= n) return 0;
         if(dp[i][j]!=0) return dp[i][j];
         int res=1;
         for(const auto&d:dir){
