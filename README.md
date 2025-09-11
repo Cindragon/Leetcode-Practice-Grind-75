@@ -29,6 +29,7 @@
 | [0057-insert-interval](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0084-largest-rectangle-in-histogram) |
@@ -161,6 +162,7 @@
 | [0055-jump-game](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0096-unique-binary-search-trees) |
@@ -313,6 +315,7 @@
 | [0054-spiral-matrix](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0064-minimum-path-sum) |
 | [0221-maximal-square](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0221-maximal-square) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1791-richest-customer-wealth](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1791-richest-customer-wealth) |
