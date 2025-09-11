@@ -232,6 +232,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1019-squares-of-a-sorted-array) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2887-sort-vowels-in-a-string](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2887-sort-vowels-in-a-string) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Binary Search
@@ -450,6 +451,7 @@
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2887-sort-vowels-in-a-string](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2887-sort-vowels-in-a-string) |
 | [3194-find-words-containing-character](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3194-find-words-containing-character) |
 | [3396-valid-word](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3617-find-the-original-typed-string-i) |
