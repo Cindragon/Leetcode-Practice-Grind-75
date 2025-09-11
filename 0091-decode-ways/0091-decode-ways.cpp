@@ -8,7 +8,7 @@ public:
         dp[1]=1;
         for(int i=2;i<=n;i++){
             int oneNum=s[i-1]-'0';
-            int twoNum=(s[i-2]-'0')*10+(s[i-1]-'0');
+            int twoNum=(s[i-2]-'0')*10+oneNum;
             if(oneNum!=0){
                 dp[i]+=dp[i-1];
             }
