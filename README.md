@@ -459,6 +459,7 @@
 | [2887-sort-vowels-in-a-string](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2887-sort-vowels-in-a-string) |
 | [3194-find-words-containing-character](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3194-find-words-containing-character) |
 | [3396-valid-word](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3396-valid-word) |
+| [3462-vowels-game-in-a-string](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3462-vowels-game-in-a-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3617-find-the-original-typed-string-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Math
@@ -485,6 +486,7 @@
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3462-vowels-game-in-a-string](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3462-vowels-game-in-a-string) |
 | [3830-find-closest-person](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3830-find-closest-person) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 ## Enumeration
@@ -746,6 +748,7 @@
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3462-vowels-game-in-a-string](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3462-vowels-game-in-a-string) |
 ## Database
 |  |
 | ------- |
@@ -814,4 +817,8 @@
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
