@@ -47,6 +47,7 @@
 | [0135-candy](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0139-word-break) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0198-house-robber) |
@@ -469,6 +470,7 @@
 | [0067-add-binary](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0096-unique-binary-search-trees) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0326-power-of-three) |
@@ -510,6 +512,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0496-next-greater-element-i) |
