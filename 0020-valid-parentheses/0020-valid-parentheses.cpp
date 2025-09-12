@@ -1,22 +1,28 @@
 class Solution {
 public:
     bool isValid(string s) {
-        stack<char> ans;
-        if(s.size()%2!=0) return false;
+        stack<char> st;
+        if(s.size()%2!=0)   return false;
         for(const auto&c:s){
-            if(c=='(') ans.push(')');
-            else if(c=='[') ans.push(']');
-            else if(c=='{') ans.push('}');
-
-            else if(ans.empty()||ans.top()!=c) return false;
-            else
-                ans.pop();
+            if(c == '(')  st.push(')');
+            else if(c == '[')   st.push(']');
+            else if(c == '{')   st.push('}');
+            else if(st.empty()||st.top() != c){
+                return false;
+            }
+            else    st.pop();
         }
-        return ans.empty();
+        return st.empty();
     }
 };
 
-/*(另一種寫法)
+/*
+用 stack 來進行括號配對，若是 s 字串為奇數就直接 return false
+接著遍歷整個字符串，若是遇到左半部就將右半部 push 進 stack
+接著若是遇到右半部，如果跟 stack.top() 不同就 return false(因為順序要一樣)
+若相同就 pop 出來，最後回傳看st是否為空(代表都配對完畢)
+
+(另一種寫法)
 class Solution {
 public:
     bool isValid(string s) {
