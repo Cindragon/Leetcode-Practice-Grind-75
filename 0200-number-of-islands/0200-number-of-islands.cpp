@@ -2,13 +2,19 @@ class Solution {
 private:
     int m;
     int n;
+    vector<pair<int, int>> dir{{1,0}, {0, 1}, {-1, 0}, {0, -1}};
     void dfs(int i, int j, vector<vector<char>>& grid){
         if(i<0||i>=m||j<0||j>=n||grid[i][j]!='1')   return;
         grid[i][j]='2';
+        for(const auto&d:dir){
+            dfs(i+d.first, j+d.second, grid);
+        }
+        /*
         dfs(i-1, j, grid);
         dfs(i+1, j, grid);
         dfs(i, j-1, grid);
         dfs(i, j+1, grid);
+        */
     }
 public:
     int numIslands(vector<vector<char>>& grid) {
