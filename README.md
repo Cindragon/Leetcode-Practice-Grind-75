@@ -82,6 +82,7 @@
 | [0496-next-greater-element-i](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0542-01-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0594-longest-harmonious-subsequence) |
 | [0654-maximum-binary-tree](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0654-maximum-binary-tree) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -200,6 +201,7 @@
 | [0494-target-sum](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0647-palindromic-substrings) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -326,6 +328,7 @@
 | [0200-number-of-islands](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0221-maximal-square) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0542-01-matrix](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0733-flood-fill) |
 | [1791-richest-customer-wealth](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1791-richest-customer-wealth) |
@@ -689,6 +692,7 @@
 | [0404-sum-of-left-leaves](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0542-01-matrix](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0542-01-matrix) |
 | [0617-merge-two-binary-trees](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0617-merge-two-binary-trees) |
 | [0695-max-area-of-island](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0733-flood-fill) |
