@@ -636,6 +636,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0617-merge-two-binary-trees) |
 | [0669-trim-a-binary-search-tree](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0669-trim-a-binary-search-tree) |
 | [0695-max-area-of-island](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0695-max-area-of-island) |
@@ -703,6 +704,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0542-01-matrix](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0542-01-matrix) |
+| [0547-number-of-provinces](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0617-merge-two-binary-trees) |
 | [0695-max-area-of-island](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0733-flood-fill) |
@@ -838,6 +840,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0695-max-area-of-island) |
 ## Geometry
 |  |
@@ -850,6 +853,7 @@
 | [0207-course-schedule](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0547-number-of-provinces](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0547-number-of-provinces) |
 ## Topological Sort
 |  |
 | ------- |
