@@ -621,6 +621,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -691,6 +692,7 @@
 | [0112-path-sum](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -843,10 +845,12 @@
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0207-course-schedule) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0207-course-schedule) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Game Theory
 |  |
