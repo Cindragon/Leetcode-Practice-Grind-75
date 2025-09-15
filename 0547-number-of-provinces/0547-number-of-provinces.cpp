@@ -1,4 +1,31 @@
 class Solution {
+private:
+    int numCity;
+    void dfs(int i, vector<vector<int>>& isConnected, vector<bool>& visited){
+        visited[i]=true;    //標記城市 i 已拜訪過
+        for(int j=0;j<numCity;j++){
+            // 如果城市 i 和 j 相連，且 j 未拜訪
+            if(isConnected[i][j]==1 && !visited[j]){
+                dfs(j, isConnected, visited);   //遞迴拜訪城市 j
+            }
+        }
+    }
+public:
+    int findCircleNum(vector<vector<int>>& isConnected) {
+        numCity=isConnected.size();
+        vector<bool> visited(numCity, false);
+        int province=0;
+        for(int i=0;i<numCity;i++){
+            if(!visited[i]){
+                province++;
+                dfs(i, isConnected, visited);
+            }
+        }
+        return province;
+    }
+};
+/*
+class Solution {
 public:
     int findCircleNum(vector<vector<int>>& isConnected) {
         int cityNum=isConnected.size();
@@ -26,7 +53,7 @@ public:
     }
 };
 
-/*
+
 可以用 BFS 的方式來解決這道題目
 1. cityNum 儲存城市總數，province 記錄有多少省份，visited 陣列來記錄有沒有拜訪過的城市，
 queue 則儲存出發的城市
