@@ -631,6 +631,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0257-binary-tree-paths) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0332-reconstruct-itinerary](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0332-reconstruct-itinerary) |
 | [0337-house-robber-iii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0337-house-robber-iii) |
 | [0399-evaluate-division](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0404-sum-of-left-leaves) |
@@ -858,6 +859,7 @@
 | [0207-course-schedule](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0332-reconstruct-itinerary](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0332-reconstruct-itinerary) |
 | [0399-evaluate-division](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0547-number-of-provinces) |
 ## Topological Sort
@@ -874,4 +876,8 @@
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0399-evaluate-division) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
