@@ -69,6 +69,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0349-intersection-of-two-arrays) |
 | [0376-wiggle-subsequence](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0377-combination-sum-iv) |
+| [0399-evaluate-division](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0399-evaluate-division) |
 | [0406-queue-reconstruction-by-height](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0406-queue-reconstruction-by-height) |
 | [0416-partition-equal-subset-sum](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0417-pacific-atlantic-water-flow) |
@@ -455,6 +456,7 @@
 | [0344-reverse-string](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0392-is-subsequence) |
+| [0399-evaluate-division](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0399-evaluate-division) |
 | [0409-longest-palindrome](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -630,6 +632,7 @@
 | [0257-binary-tree-paths](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0257-binary-tree-paths) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0337-house-robber-iii) |
+| [0399-evaluate-division](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0417-pacific-atlantic-water-flow) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -699,6 +702,7 @@
 | [0226-invert-binary-tree](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0399-evaluate-division](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0417-pacific-atlantic-water-flow) |
 | [0513-find-bottom-left-tree-value](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0513-find-bottom-left-tree-value) |
@@ -840,6 +844,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0695-max-area-of-island) |
 ## Geometry
@@ -853,6 +858,7 @@
 | [0207-course-schedule](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0399-evaluate-division](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0547-number-of-provinces) |
 ## Topological Sort
 |  |
@@ -864,4 +870,8 @@
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3462-vowels-game-in-a-string) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
