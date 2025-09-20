@@ -1,27 +1,27 @@
 class Solution {
 public:
     vector<int> partitionLabels(string s) {
-        int hash[27]={0};
+        vector<int> last(26, 0);
         for(int i=0;i<s.size();i++){
-            hash[s[i]-'a']=i;   //記錄每個字母在s字串中出現的最遠位置
+            last[s[i]-'a']=i;
         }
-        vector<int> res;
-        int left=0, right=0;    //記錄左右區間的大小
+        vector<int> ans;
+        int start=0, end=0;
         for(int i=0;i<s.size();i++){
-            right=max(right, hash[s[i]-'a']);   //找到右邊界的最大值
-            if(i==right){
-                res.push_back(right-left+1);
-                left=right+1;
+            end=max(end, last[s[i] - 'a']);
+            if(i==end){
+                ans.push_back(end-start+1);
+                start=i+1;
             }
         }
-        return res;
+        return ans;
     }
 };
 
 /*
-使用貪心算法，找到每個字母出現的最遠的位置
-先用一個哈希表進行記錄，將每個字母出現的最遠位置記下來
-接下來設定左右邊界，再遍歷一次 s 字串
-一直遍歷找到右邊界的最大值，一旦 i 遍歷到right(最遠的邊界)
-計算長度的之後同時更新left邊界
+這題可以用 greedy 的方式來解題
+1. 用 last 陣列來儲存各個字母最後出現的位置
+2. 用 start 跟 end 來表示每個陣列出現的開始跟結束位置，接著再次遍歷 s 字串
+先找到首字母的最後出現的位置更新為 end ，若是 i==end 代表這邊會是一個區間
+將區間長度儲存後，接著更新 start 的值，最後回傳 ans
 */
