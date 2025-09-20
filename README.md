@@ -86,6 +86,7 @@
 | [0518-coin-change-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0542-01-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0621-task-scheduler) |
 | [0654-maximum-binary-tree](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0654-maximum-binary-tree) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0695-max-area-of-island](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0695-max-area-of-island) |
@@ -154,6 +155,7 @@
 | [0491-non-decreasing-subsequences](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0621-task-scheduler) |
 | [0768-partition-labels](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0768-partition-labels) |
 | [1044-find-common-characters](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1044-find-common-characters) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -241,6 +243,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0621-task-scheduler) |
 | [0917-boats-to-save-people](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0917-boats-to-save-people) |
 | [1019-squares-of-a-sorted-array](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1019-squares-of-a-sorted-array) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1047-maximize-sum-of-array-after-k-negations) |
@@ -268,6 +271,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0383-ransom-note) |
 | [0594-longest-harmonious-subsequence](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0594-longest-harmonious-subsequence) |
+| [0621-task-scheduler](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0621-task-scheduler) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -426,6 +430,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0621-task-scheduler) |
 | [0738-monotone-increasing-digits](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0738-monotone-increasing-digits) |
 | [0768-partition-labels](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0768-partition-labels) |
 | [0890-lemonade-change](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0890-lemonade-change) |
@@ -550,6 +555,7 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0621-task-scheduler) |
 ## Monotonic Queue
 |  |
 | ------- |
