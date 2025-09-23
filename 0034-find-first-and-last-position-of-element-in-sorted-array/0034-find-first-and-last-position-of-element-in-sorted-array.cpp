@@ -19,3 +19,7 @@ public:
         return {start, end};
     }
 };
+/*
+先用 Binary Search 找到其中一個值
+接下來再左右擴張，直到找到邊界為止
+*/
