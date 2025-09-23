@@ -35,6 +35,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -346,6 +347,7 @@
 | [0063-unique-paths-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0221-maximal-square) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -389,6 +391,7 @@
 | [0051-n-queens](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0093-restore-ip-addresses) |
 | [0113-path-sum-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0113-path-sum-ii) |
@@ -463,6 +466,7 @@
 | [0049-group-anagrams](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0093-restore-ip-addresses) |
 | [0115-distinct-subsequences](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0115-distinct-subsequences) |
@@ -629,6 +633,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0100-same-tree) |
