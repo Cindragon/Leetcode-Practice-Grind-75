@@ -50,6 +50,7 @@
 | [0136-single-number](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -261,6 +262,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0074-search-a-2d-matrix) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0222-count-complete-tree-nodes) |
