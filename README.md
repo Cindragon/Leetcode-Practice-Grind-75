@@ -374,6 +374,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -409,6 +410,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0024-swap-nodes-in-pairs) |
 | [0092-reverse-linked-list-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0141-linked-list-cycle) |
@@ -574,6 +576,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0347-top-k-frequent-elements) |
@@ -910,4 +913,8 @@
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0332-reconstruct-itinerary) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
