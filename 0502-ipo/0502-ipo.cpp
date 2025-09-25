@@ -29,7 +29,7 @@ public:
 
 /* 
 這題同樣用到兩個 pq，其中一個 pqC 將 captial 越小的放進來，另一個 pqP 則是把 profit 最大的往前放(預設的大頂堆)
-1. 先將所有組合丟進 pqC
+1. 先將所有組合丟進 pqC(甚至你可以用vector 然後再 sort)
 2. 在 pqC 不為空且 pqC.top().second<=currentMoney(原有資本) 的情況下把組合丟進 pqP (K次操作)
 3. 如果 pqP 為空，代表沒有 project 可以運行，直接 break 迴圈
 若是有組合，則直接將現有的 currentMoney+=pqP.top().first，最後回傳 currentMoney
