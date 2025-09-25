@@ -114,6 +114,7 @@
 | [1036-rotting-oranges](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1036-rotting-oranges) |
 | [1044-find-common-characters](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1044-find-common-characters) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1105-uncrossed-lines](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1105-uncrossed-lines) |
 | [1130-last-stone-weight-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1130-last-stone-weight-ii) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -287,6 +288,7 @@
 | [0410-split-array-largest-sum](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0410-split-array-largest-sum) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0792-binary-search](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0792-binary-search) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3790-fruits-into-baskets-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3790-fruits-into-baskets-ii) |
 ## Counting
