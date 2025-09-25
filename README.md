@@ -90,6 +90,7 @@
 | [0494-target-sum](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0494-target-sum) |
 | [0495-teemo-attacking](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0496-next-greater-element-i) |
+| [0502-ipo](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0542-01-matrix) |
@@ -256,6 +257,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0455-assign-cookies) |
+| [0502-ipo](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0502-ipo) |
 | [0594-longest-harmonious-subsequence](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0621-task-scheduler) |
 | [0917-boats-to-save-people](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0917-boats-to-save-people) |
@@ -461,6 +463,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0455-assign-cookies) |
+| [0502-ipo](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0621-task-scheduler) |
 | [0738-monotone-increasing-digits](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0738-monotone-increasing-digits) |
 | [0768-partition-labels](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0768-partition-labels) |
@@ -591,6 +594,7 @@
 | [0239-sliding-window-maximum](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0347-top-k-frequent-elements) |
+| [0502-ipo](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0621-task-scheduler) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1014-k-closest-points-to-origin) |
