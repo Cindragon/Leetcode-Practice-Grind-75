@@ -96,6 +96,7 @@
 | [0518-coin-change-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0542-01-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0621-task-scheduler) |
 | [0654-maximum-binary-tree](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0654-maximum-binary-tree) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -264,6 +265,7 @@
 | [0455-assign-cookies](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0502-ipo) |
 | [0594-longest-harmonious-subsequence](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0621-task-scheduler) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0917-boats-to-save-people](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0917-boats-to-save-people) |
@@ -289,6 +291,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0410-split-array-largest-sum) |
+| [0611-valid-triangle-number](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0611-valid-triangle-number) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0792-binary-search](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0792-binary-search) |
@@ -334,6 +337,7 @@
 | [0392-is-subsequence](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0541-reverse-string-ii) |
+| [0611-valid-triangle-number](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0611-valid-triangle-number) |
 | [0647-palindromic-substrings](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0647-palindromic-substrings) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0768-partition-labels](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0768-partition-labels) |
@@ -477,6 +481,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0502-ipo) |
+| [0611-valid-triangle-number](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0621-task-scheduler) |
 | [0738-monotone-increasing-digits](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0738-monotone-increasing-digits) |
 | [0768-partition-labels](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0768-partition-labels) |
