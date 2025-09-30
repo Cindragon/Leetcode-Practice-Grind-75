@@ -237,6 +237,7 @@
 | [1013-fibonacci-number](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1013-fibonacci-number) |
 | [1105-uncrossed-lines](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1105-uncrossed-lines) |
 | [1130-last-stone-weight-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1130-last-stone-weight-ii) |
+| [1170-shortest-common-supersequence](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -530,6 +531,7 @@
 | [0768-partition-labels](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0768-partition-labels) |
 | [1044-find-common-characters](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1044-find-common-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1170-shortest-common-supersequence](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
