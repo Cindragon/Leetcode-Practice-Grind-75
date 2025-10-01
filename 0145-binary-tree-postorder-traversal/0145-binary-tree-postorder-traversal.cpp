@@ -10,21 +10,17 @@
  * };
  */
 class Solution {
-public:
-    void Traversal(TreeNode* root, vector<int>& ans){
-        if(root==NULL) return;
-        Traversal(root->left, ans);
-        Traversal(root->right, ans);
+private:
+    void traversal(TreeNode* root, vector<int>&ans){
+        if(root==NULL)  return;
+        traversal(root->left, ans);
+        traversal(root->right, ans);
         ans.push_back(root->val);
     }
+public:
     vector<int> postorderTraversal(TreeNode* root) {
         vector<int> ans;
-        Traversal(root, ans);
+        traversal(root, ans);
         return ans;
     }
 };
-/*
-後序遍歷：左右中
-跟前序還有中序遍歷一樣的方式
-只要記得對換順序就好
-*/
