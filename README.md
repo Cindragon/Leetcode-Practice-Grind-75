@@ -60,6 +60,7 @@
 | [0162-find-peak-element](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0189-rotate-array](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0209-minimum-size-subarray-sum) |
@@ -338,6 +339,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0295-find-median-from-data-stream) |
@@ -560,6 +562,7 @@
 | [0070-climbing-stairs](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0326-power-of-three) |
