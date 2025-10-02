@@ -740,6 +740,7 @@
 | [0669-trim-a-binary-search-tree](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0669-trim-a-binary-search-tree) |
 | [0695-max-area-of-island](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0733-flood-fill) |
+| [0820-find-eventual-safe-states](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0820-find-eventual-safe-states) |
 | [1008-binary-tree-cameras](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1008-binary-tree-cameras) |
 ## Binary Tree
 |  |
@@ -816,6 +817,7 @@
 | [0695-max-area-of-island](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0733-flood-fill) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0764-n-ary-tree-level-order-traversal) |
+| [0820-find-eventual-safe-states](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0820-find-eventual-safe-states) |
 | [1036-rotting-oranges](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1036-rotting-oranges) |
 ## Bit Manipulation
 |  |
@@ -968,12 +970,14 @@
 | [0332-reconstruct-itinerary](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0332-reconstruct-itinerary) |
 | [0399-evaluate-division](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0547-number-of-provinces) |
+| [0820-find-eventual-safe-states](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0820-find-eventual-safe-states) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0820-find-eventual-safe-states](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0820-find-eventual-safe-states) |
 ## Game Theory
 |  |
 | ------- |
