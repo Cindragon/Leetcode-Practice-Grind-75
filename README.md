@@ -83,6 +83,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0349-intersection-of-two-arrays) |
 | [0376-wiggle-subsequence](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0377-combination-sum-iv) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0399-evaluate-division) |
 | [0406-queue-reconstruction-by-height](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0406-queue-reconstruction-by-height) |
 | [0410-split-array-largest-sum](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0410-split-array-largest-sum) |
@@ -171,6 +172,7 @@
 | [0268-missing-number](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0349-intersection-of-two-arrays) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -481,6 +483,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0295-find-median-from-data-stream) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0380-insert-delete-getrandom-o1) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0838-design-linked-list](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0838-design-linked-list) |
 ## Greedy
@@ -572,6 +575,7 @@
 | [0326-power-of-three](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0343-integer-break) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0412-fizz-buzz) |
 | [0738-monotone-increasing-digits](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0738-monotone-increasing-digits) |
 | [0867-new-21-game](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0867-new-21-game) |
@@ -1007,4 +1011,8 @@
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0789-kth-largest-element-in-a-stream) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
