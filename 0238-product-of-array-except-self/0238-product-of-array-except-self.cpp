@@ -4,19 +4,18 @@ public:
         int n=nums.size();
         vector<int> prefix(n), ans(n);
         int product=1;
-        for(int i=0;i<nums.size();i++){
+        for(int i=0;i<n;++i){
             prefix[i]=product;
             product*=nums[i];
         }
         product=1;
-        for(int i=prefix.size()-1;i>=0;i--){
-            ans[i]=product*prefix[i];
+        for(int i=n-1;i>=0;--i){
+            ans[i]=prefix[i]*product;
             product*=nums[i];
         }
         return ans;
     }
 };
-
 /*
 建立兩個陣列：
     prefix：儲存每個位置左邊所有數字的乘積
