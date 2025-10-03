@@ -72,6 +72,7 @@
 | [0238-product-of-array-except-self](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -263,6 +264,7 @@
 | [0217-contains-duplicate](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0349-intersection-of-two-arrays) |
@@ -938,6 +940,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0274-h-index) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Ordered Set
 |  |
