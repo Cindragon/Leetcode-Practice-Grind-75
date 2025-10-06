@@ -114,6 +114,7 @@
 | [0739-daily-temperatures](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0794-swim-in-rising-water) |
 | [0890-lemonade-change](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0917-boats-to-save-people) |
@@ -307,6 +308,7 @@
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0792-binary-search](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -398,6 +400,7 @@
 | [0542-01-matrix](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0733-flood-fill) |
+| [0794-swim-in-rising-water](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0794-swim-in-rising-water) |
 | [1036-rotting-oranges](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1036-rotting-oranges) |
 | [1791-richest-customer-wealth](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1791-richest-customer-wealth) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -643,6 +646,7 @@
 | [0502-ipo](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0621-task-scheduler) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0794-swim-in-rising-water](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0794-swim-in-rising-water) |
 | [1014-k-closest-points-to-origin](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1014-k-closest-points-to-origin) |
 ## Monotonic Queue
 |  |
@@ -751,6 +755,7 @@
 | [0669-trim-a-binary-search-tree](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0669-trim-a-binary-search-tree) |
 | [0695-max-area-of-island](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0733-flood-fill) |
+| [0794-swim-in-rising-water](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0794-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0820-find-eventual-safe-states) |
 | [1008-binary-tree-cameras](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1008-binary-tree-cameras) |
 ## Binary Tree
@@ -829,6 +834,7 @@
 | [0695-max-area-of-island](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0733-flood-fill) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0764-n-ary-tree-level-order-traversal) |
+| [0794-swim-in-rising-water](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0794-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0820-find-eventual-safe-states) |
 | [1036-rotting-oranges](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1036-rotting-oranges) |
 ## Bit Manipulation
@@ -969,6 +975,7 @@
 | [0399-evaluate-division](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0695-max-area-of-island) |
+| [0794-swim-in-rising-water](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0794-swim-in-rising-water) |
 ## Geometry
 |  |
 | ------- |
