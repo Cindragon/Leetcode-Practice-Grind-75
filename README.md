@@ -546,6 +546,7 @@
 | [0583-delete-operation-for-two-strings](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0647-palindromic-substrings) |
 | [0768-partition-labels](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0768-partition-labels) |
+| [0812-rotate-string](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0812-rotate-string) |
 | [1044-find-common-characters](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1044-find-common-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1170-shortest-common-supersequence](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1170-shortest-common-supersequence) |
@@ -605,6 +606,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0459-repeated-substring-pattern) |
+| [0812-rotate-string](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0812-rotate-string) |
 ## Stack
 |  |
 | ------- |
