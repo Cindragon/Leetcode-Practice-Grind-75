@@ -238,6 +238,7 @@
 | [0542-01-matrix](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0647-palindromic-substrings) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0747-min-cost-climbing-stairs](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0747-min-cost-climbing-stairs) |
 | [0867-new-21-game](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0867-new-21-game) |
@@ -550,6 +551,7 @@
 | [0541-reverse-string-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0541-reverse-string-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0647-palindromic-substrings) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0768-partition-labels](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0812-rotate-string) |
 | [1044-find-common-characters](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1044-find-common-characters) |
