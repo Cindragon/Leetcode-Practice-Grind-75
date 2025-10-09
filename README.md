@@ -8,6 +8,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -526,6 +527,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0008-string-to-integer-atoi) |
+| [0014-longest-common-prefix](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -911,6 +913,7 @@
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0139-word-break) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Rolling Hash
