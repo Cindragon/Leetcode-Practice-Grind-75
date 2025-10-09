@@ -16,3 +16,11 @@ public:
         return ans;
     }
 };
+
+/*
+用第一個字串 ans 去跟後面的其他字串做比較
+取出要比較的字串 temp
+如果 ans 長度比較長或是 ans!=temp 的子字串
+length--，如果length==0，直接回傳空字串
+否則的話 ans=ans.substr(0, length)
+*/
