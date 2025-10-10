@@ -77,6 +77,7 @@
 | [0274-h-index](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0300-longest-increasing-subsequence) |
+| [0303-range-sum-query-immutable](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0303-range-sum-query-immutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -386,6 +387,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0410-split-array-largest-sum) |
 | [2529-range-product-queries-of-powers](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2529-range-product-queries-of-powers) |
 ## Matrix
@@ -494,6 +496,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0295-find-median-from-data-stream) |
+| [0303-range-sum-query-immutable](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0303-range-sum-query-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0380-insert-delete-getrandom-o1) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0838-design-linked-list](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0838-design-linked-list) |
