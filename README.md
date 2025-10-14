@@ -181,6 +181,7 @@
 | [0409-longest-palindrome](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0454-4sum-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0454-4sum-ii) |
+| [0460-lfu-cache](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0460-lfu-cache) |
 | [0491-non-decreasing-subsequences](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0496-next-greater-element-i) |
 | [0594-longest-harmonious-subsequence](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0594-longest-harmonious-subsequence) |
@@ -475,6 +476,7 @@
 | [0203-remove-linked-list-elements](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0237-delete-node-in-a-linked-list) |
+| [0460-lfu-cache](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0460-lfu-cache) |
 | [0838-design-linked-list](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -498,6 +500,7 @@
 | [0295-find-median-from-data-stream](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0303-range-sum-query-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0380-insert-delete-getrandom-o1) |
+| [0460-lfu-cache](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0460-lfu-cache) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0838-design-linked-list](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0838-design-linked-list) |
 ## Greedy
@@ -1042,4 +1045,8 @@
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0380-insert-delete-getrandom-o1) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
