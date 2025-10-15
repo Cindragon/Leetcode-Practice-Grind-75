@@ -780,6 +780,7 @@
 | [0733-flood-fill](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0794-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0820-find-eventual-safe-states) |
+| [0922-possible-bipartition](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0922-possible-bipartition) |
 | [1008-binary-tree-cameras](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1008-binary-tree-cameras) |
 ## Binary Tree
 |  |
@@ -859,6 +860,7 @@
 | [0764-n-ary-tree-level-order-traversal](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0794-swim-in-rising-water](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0794-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0820-find-eventual-safe-states) |
+| [0922-possible-bipartition](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0922-possible-bipartition) |
 | [1036-rotting-oranges](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1036-rotting-oranges) |
 ## Bit Manipulation
 |  |
@@ -1001,6 +1003,7 @@
 | [0547-number-of-provinces](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0695-max-area-of-island) |
 | [0794-swim-in-rising-water](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0794-swim-in-rising-water) |
+| [0922-possible-bipartition](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0922-possible-bipartition) |
 ## Geometry
 |  |
 | ------- |
@@ -1017,6 +1020,7 @@
 | [0399-evaluate-division](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0547-number-of-provinces) |
 | [0820-find-eventual-safe-states](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0820-find-eventual-safe-states) |
+| [0922-possible-bipartition](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0922-possible-bipartition) |
 ## Topological Sort
 |  |
 | ------- |
