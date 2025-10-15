@@ -24,6 +24,7 @@
 | [0045-jump-game-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0053-maximum-subarray) |
@@ -396,6 +397,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0063-unique-paths-ii) |
@@ -587,6 +589,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0070-climbing-stairs) |
