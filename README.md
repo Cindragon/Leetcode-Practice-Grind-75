@@ -443,6 +443,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0347-top-k-frequent-elements) |
 | [0654-maximum-binary-tree](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0654-maximum-binary-tree) |
@@ -879,6 +880,7 @@
 | [0078-subsets](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0338-counting-bits) |
