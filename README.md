@@ -110,6 +110,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0621-task-scheduler) |
+| [0630-course-schedule-iii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0630-course-schedule-iii) |
 | [0654-maximum-binary-tree](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0654-maximum-binary-tree) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0695-max-area-of-island](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0695-max-area-of-island) |
@@ -292,6 +293,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0621-task-scheduler) |
+| [0630-course-schedule-iii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0630-course-schedule-iii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0917-boats-to-save-people](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0917-boats-to-save-people) |
 | [1014-k-closest-points-to-origin](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1014-k-closest-points-to-origin) |
@@ -533,6 +535,7 @@
 | [0502-ipo](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0502-ipo) |
 | [0611-valid-triangle-number](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0621-task-scheduler) |
+| [0630-course-schedule-iii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0630-course-schedule-iii) |
 | [0680-valid-palindrome-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0680-valid-palindrome-ii) |
 | [0738-monotone-increasing-digits](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0738-monotone-increasing-digits) |
 | [0768-partition-labels](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0768-partition-labels) |
@@ -682,6 +685,7 @@
 | [0480-sliding-window-median](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0480-sliding-window-median) |
 | [0502-ipo](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0621-task-scheduler) |
+| [0630-course-schedule-iii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0630-course-schedule-iii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0794-swim-in-rising-water](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0794-swim-in-rising-water) |
 | [1014-k-closest-points-to-origin](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1014-k-closest-points-to-origin) |
