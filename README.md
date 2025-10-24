@@ -195,6 +195,7 @@
 | [1044-find-common-characters](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1044-find-common-characters) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1510-find-lucky-integer-in-an-array) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -339,6 +340,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0621-task-scheduler) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1510-find-lucky-integer-in-an-array) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -475,6 +477,7 @@
 | [0491-non-decreasing-subsequences](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0494-target-sum) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Linked List
 |  |
 | ------- |
@@ -627,6 +630,7 @@
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2998-count-symmetric-integers](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -639,6 +643,7 @@
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2998-count-symmetric-integers](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2998-count-symmetric-integers) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
