@@ -455,6 +455,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0347-top-k-frequent-elements) |
 | [0654-maximum-binary-tree](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0654-maximum-binary-tree) |
 | [1014-k-closest-points-to-origin](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1014-k-closest-points-to-origin) |
+| [1285-balance-a-binary-search-tree](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1285-balance-a-binary-search-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -545,6 +546,7 @@
 | [0890-lemonade-change](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0917-boats-to-save-people) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [1285-balance-a-binary-search-tree](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1285-balance-a-binary-search-tree) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## String
 |  |
@@ -759,6 +761,7 @@
 | [0783-search-in-a-binary-search-tree](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1008-binary-tree-cameras](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1008-binary-tree-cameras) |
+| [1285-balance-a-binary-search-tree](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1285-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -809,6 +812,7 @@
 | [0820-find-eventual-safe-states](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0820-find-eventual-safe-states) |
 | [0922-possible-bipartition](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0922-possible-bipartition) |
 | [1008-binary-tree-cameras](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1008-binary-tree-cameras) |
+| [1285-balance-a-binary-search-tree](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1285-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -854,6 +858,7 @@
 | [0783-search-in-a-binary-search-tree](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1008-binary-tree-cameras](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1008-binary-tree-cameras) |
+| [1285-balance-a-binary-search-tree](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1285-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -922,6 +927,7 @@
 | [0669-trim-a-binary-search-tree](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0669-trim-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1285-balance-a-binary-search-tree](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1285-balance-a-binary-search-tree) |
 ## Monotonic Stack
 |  |
 | ------- |
