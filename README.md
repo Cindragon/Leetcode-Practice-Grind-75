@@ -630,6 +630,7 @@
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2998-count-symmetric-integers](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2998-count-symmetric-integers) |
