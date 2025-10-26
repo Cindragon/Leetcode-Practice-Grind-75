@@ -143,6 +143,7 @@
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2352-design-an-atm-machine](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2352-design-an-atm-machine) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2529-range-product-queries-of-powers) |
@@ -521,6 +522,7 @@
 | [0460-lfu-cache](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0460-lfu-cache) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0838-design-linked-list](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0838-design-linked-list) |
+| [2352-design-an-atm-machine](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2352-design-an-atm-machine) |
 ## Greedy
 |  |
 | ------- |
@@ -547,6 +549,7 @@
 | [0917-boats-to-save-people](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0917-boats-to-save-people) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1285-balance-a-binary-search-tree](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1285-balance-a-binary-search-tree) |
+| [2352-design-an-atm-machine](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2352-design-an-atm-machine) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## String
 |  |
