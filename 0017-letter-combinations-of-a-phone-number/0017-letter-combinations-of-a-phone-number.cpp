@@ -1,39 +1,31 @@
 class Solution {
-public:
+private:
     const string letterMap[10]={
-        "",
-        "",
-        "abc",
-        "def",
-        "ghi",
-        "jkl",
-        "mno",
-        "pqrs",
-        "tuv",
-        "wxyz"
+        "", "", "abc", "def", "ghi", "jkl", "mno", "pqrs", "tuv", "wxyz"
     };
-    vector<string> res;
-    string s;
+    vector<string> ans;
+    string path;
     void backtracking(string digits, int index){
         if(index==digits.size()){
-            res.push_back(s);
+            ans.push_back(path);
             return;
         }
-        int digit=digits[index]-'0';    //找到目前digit字串index的字元並且轉成數字
-        string letter=letterMap[digit]; //將數字轉變成這個數字對應的英文字串
-        for(int i=0;i<letter.size();i++){
-            s.push_back(letter[i]);
-            backtracking(digits, index+1);  //下一個digit字串的字元
-            s.pop_back();   //回溯
+        int digit=digits[index]-'0';    //找到目前 digit 字串中 索引值 index 的字元並且轉成數字
+        string letter=letterMap[digit]; //找到映射表中對英的英文字串
+        for(int i=0;i<letter.size();++i){
+            path.push_back(letter[i]);
+            backtracking(digits, index+1);  //下一個 digit 的字元
+            path.pop_back(); //回溯
         }
         return;
     }
+public:
     vector<string> letterCombinations(string digits) {
-        s.clear();
-        res.clear();
-        if(digits.size()==0) return res;
+        path.clear();
+        ans.clear();
+        if(digits.size()==0)    return ans;
         backtracking(digits, 0);
-        return res;
+        return ans;
     }
 };
 
