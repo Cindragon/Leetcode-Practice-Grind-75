@@ -1,25 +1,25 @@
 class Solution {
-public:
-    vector<vector<int>> res;
+private:
+    vector<vector<int>> ans;
     vector<int> path;
-    void backtracking(int n, int k, int startindex){
+    void backtracking(int n, int k, int startIndex){
         if(path.size()==k){
-            res.push_back(path);
+            ans.push_back(path);
             return;
         }
-        for(int i=startindex;i<=n-(k-path.size())+1;i++){
+        for(int i=startIndex;i<=n-(k-path.size())+1;++i){
             path.push_back(i);
             backtracking(n, k, i+1);
             path.pop_back();
         }
         return;
     }
+public:
     vector<vector<int>> combine(int n, int k) {
         backtracking(n, k, 1);
-        return res;
+        return ans;
     }
 };
-
 /*
 使用遞迴法來解決組合問題
 先設立兩個類別成員變數res跟path來儲存結果
