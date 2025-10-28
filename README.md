@@ -155,6 +155,7 @@
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
@@ -405,6 +406,7 @@
 | [0303-range-sum-query-immutable](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0410-split-array-largest-sum) |
 | [2529-range-product-queries-of-powers](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2529-range-product-queries-of-powers) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Matrix
 |  |
 | ------- |
@@ -441,6 +443,7 @@
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3790-fruits-into-baskets-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3790-fruits-into-baskets-ii) |
 ## Divide and Conquer
 |  |
