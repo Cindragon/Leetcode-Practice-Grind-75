@@ -140,6 +140,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1706-min-cost-to-connect-all-points](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1706-min-cost-to-connect-all-points) |
 | [1791-richest-customer-wealth](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1791-richest-customer-wealth) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -1057,6 +1058,7 @@
 | [0794-swim-in-rising-water](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0794-swim-in-rising-water) |
 | [0869-similar-string-groups](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0869-similar-string-groups) |
 | [0922-possible-bipartition](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0922-possible-bipartition) |
+| [1706-min-cost-to-connect-all-points](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1706-min-cost-to-connect-all-points) |
 ## Geometry
 |  |
 | ------- |
@@ -1074,6 +1076,7 @@
 | [0547-number-of-provinces](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0547-number-of-provinces) |
 | [0820-find-eventual-safe-states](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0820-find-eventual-safe-states) |
 | [0922-possible-bipartition](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0922-possible-bipartition) |
+| [1706-min-cost-to-connect-all-points](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1706-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
 | ------- |
@@ -1110,4 +1113,8 @@
 |  |
 | ------- |
 | [0460-lfu-cache](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0460-lfu-cache) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1706-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
