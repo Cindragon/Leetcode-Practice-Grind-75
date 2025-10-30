@@ -139,6 +139,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1791-richest-customer-wealth](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1791-richest-customer-wealth) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -267,6 +268,7 @@
 | [1250-longest-common-subsequence](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -554,6 +556,7 @@
 | [0917-boats-to-save-people](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0917-boats-to-save-people) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1285-balance-a-binary-search-tree](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1285-balance-a-binary-search-tree) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2352-design-an-atm-machine](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2352-design-an-atm-machine) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## String
@@ -683,6 +686,7 @@
 | [0654-maximum-binary-tree](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0739-daily-temperatures) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Queue
 |  |
 | ------- |
@@ -948,6 +952,7 @@
 | [0503-next-greater-element-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0503-next-greater-element-ii) |
 | [0654-maximum-binary-tree](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0739-daily-temperatures) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Binary Indexed Tree
 |  |
 | ------- |
