@@ -351,6 +351,7 @@
 | [2174-next-greater-numerically-balanced-number](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
@@ -561,6 +562,7 @@
 | [1285-balance-a-binary-search-tree](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1285-balance-a-binary-search-tree) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2352-design-an-atm-machine](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2352-design-an-atm-machine) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## String
 |  |
@@ -619,6 +621,7 @@
 | [3194-find-words-containing-character](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3194-find-words-containing-character) |
 | [3396-valid-word](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3396-valid-word) |
 | [3462-vowels-game-in-a-string](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3462-vowels-game-in-a-string) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3617-find-the-original-typed-string-i](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3617-find-the-original-typed-string-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3872-find-most-frequent-vowel-and-consonant) |
