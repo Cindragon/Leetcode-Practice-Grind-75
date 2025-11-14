@@ -152,6 +152,7 @@
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2529-range-product-queries-of-powers) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2625-increment-submatrices-by-one](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2625-increment-submatrices-by-one) |
 | [3194-find-words-containing-character](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3194-find-words-containing-character) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -415,6 +416,7 @@
 | [0303-range-sum-query-immutable](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0410-split-array-largest-sum) |
 | [2529-range-product-queries-of-powers](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2529-range-product-queries-of-powers) |
+| [2625-increment-submatrices-by-one](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2625-increment-submatrices-by-one) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Matrix
 |  |
@@ -440,6 +442,7 @@
 | [0794-swim-in-rising-water](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0794-swim-in-rising-water) |
 | [1036-rotting-oranges](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1036-rotting-oranges) |
 | [1791-richest-customer-wealth](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1791-richest-customer-wealth) |
+| [2625-increment-submatrices-by-one](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2625-increment-submatrices-by-one) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Simulation
 |  |
