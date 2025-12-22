@@ -126,6 +126,7 @@
 | [0907-koko-eating-bananas](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0917-boats-to-save-people) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0978-valid-mountain-array](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0978-valid-mountain-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1019-squares-of-a-sorted-array) |
@@ -564,6 +565,7 @@
 | [0768-partition-labels](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0768-partition-labels) |
 | [0890-lemonade-change](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0917-boats-to-save-people) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1285-balance-a-binary-search-tree](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1285-balance-a-binary-search-tree) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -615,6 +617,7 @@
 | [0768-partition-labels](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0812-rotate-string) |
 | [0869-similar-string-groups](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0869-similar-string-groups) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1044-find-common-characters](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1044-find-common-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1170-shortest-common-supersequence](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1170-shortest-common-supersequence) |
