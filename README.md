@@ -144,6 +144,7 @@
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1706-min-cost-to-connect-all-points) |
 | [1791-richest-customer-wealth](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1791-richest-customer-wealth) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2176-parallel-courses-iii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2176-parallel-courses-iii) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2316-count-hills-and-valleys-in-an-array) |
