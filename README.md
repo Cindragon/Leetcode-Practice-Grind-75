@@ -165,6 +165,7 @@
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
@@ -283,6 +284,7 @@
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Sorting
 |  |
 | ------- |
@@ -450,6 +452,7 @@
 | [1791-richest-customer-wealth](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1791-richest-customer-wealth) |
 | [2625-increment-submatrices-by-one](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2625-increment-submatrices-by-one) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
