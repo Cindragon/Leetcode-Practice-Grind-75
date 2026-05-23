@@ -37,3 +37,9 @@ class TestTwoSum:
     def test_large_target(self):
         result = self.solution.twoSum([1000000, 999999, 1], 1000001)
         assert sorted(result) == [0, 2]
+
+    def test_no_solution_returns_empty(self):
+        # 題目保證一定有解，但程式碼有 return [] 的防禦性寫法
+        # 這個測試覆蓋「找不到答案」的分支
+        result = self.solution.twoSum([1, 2, 3], 100)
+        assert result == []

@@ -23,6 +23,8 @@ class TestThreeSum:
         ([-2, 0, 1, 1, 2], [[-2, 0, 2], [-2, 1, 1]]),
         ([1, 2, 3], []),
         ([-1, -1, -1, 2], [[-1, -1, 2]]),
+        ([-2, 0, 1, 1, 1, 2], [[-2, 0, 2], [-2, 1, 1]]),
+        ([-3, 0, 1, 2, 2], [[-3, 1, 2]]),
     ], ids=[
         "example_1_mixed",
         "example_2_no_solution",
@@ -31,6 +33,8 @@ class TestThreeSum:
         "multiple_solutions",
         "all_positive",
         "duplicate_negatives",
+        "right_side_duplicates",
+        "right_skip_duplicates",
     ])
     def test_three_sum(self, nums, expected):
         solution = Solution()
