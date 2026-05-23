@@ -1,0 +1,21 @@
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py"]
+python_classes = ["Test*"]
+python_functions = ["test_*"]
+addopts = "-v --tb=short"
+markers = [
+    "easy: Easy difficulty problems",
+    "medium: Medium difficulty problems",
+    "hard: Hard difficulty problems",
+    "linked_list: Linked list problems",
+    "array: Array problems",
+    "string: String problems",
+]
+
+[tool.coverage.run]
+source = ["."]
+omit = ["tests/*", "helpers/*", "venv/*", ".venv/*"]
+
+[tool.coverage.report]
+show_missing = true

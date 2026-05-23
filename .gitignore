@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+venv/
+.venv/
+env/
+.coverage
+htmlcov/
+*.egg-info/
+dist/
+build/
+.env
+geckodriver.log
+chromedriver.log
+.vscode/
+.idea/
