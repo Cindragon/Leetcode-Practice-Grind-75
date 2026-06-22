@@ -144,6 +144,7 @@
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1706-min-cost-to-connect-all-points) |
 | [1791-richest-customer-wealth](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1791-richest-customer-wealth) |
+| [1833-maximum-ice-cream-bars](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1833-maximum-ice-cream-bars) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2176-parallel-courses-iii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2176-parallel-courses-iii) |
@@ -321,6 +322,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1019-squares-of-a-sorted-array) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1833-maximum-ice-cream-bars](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1833-maximum-ice-cream-bars) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2887-sort-vowels-in-a-string](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2887-sort-vowels-in-a-string) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -580,6 +582,7 @@
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1285-balance-a-binary-search-tree](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1285-balance-a-binary-search-tree) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1833-maximum-ice-cream-bars) |
 | [2352-design-an-atm-machine](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/2352-design-an-atm-machine) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -1069,6 +1072,7 @@
 | ------- |
 | [0274-h-index](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/0274-h-index) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1833-maximum-ice-cream-bars](https://github.com/Cindragon/Leetcode-Practice-Grind-75/tree/master/1833-maximum-ice-cream-bars) |
 ## Ordered Set
 |  |
 | ------- |
